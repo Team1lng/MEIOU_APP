@@ -1,0 +1,2 @@
+/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ar qc liblv_drivers_lib.a CMakeFiles/lv_drivers_lib.dir/lv_port_disp.c.o CMakeFiles/lv_drivers_lib.dir/lv_port_indev.c.o
+/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ranlib liblv_drivers_lib.a

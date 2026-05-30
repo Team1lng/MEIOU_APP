@@ -1,0 +1,421 @@
+[
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/src/ak_drv_gpio.c.o   -c /home/share/meiou/outdoor_pro/src/ak_drv_gpio.c",
+  "file": "/home/share/meiou/outdoor_pro/src/ak_drv_gpio.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/src/audio_speak_amp.c.o   -c /home/share/meiou/outdoor_pro/src/audio_speak_amp.c",
+  "file": "/home/share/meiou/outdoor_pro/src/audio_speak_amp.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/src/card_manage.c.o   -c /home/share/meiou/outdoor_pro/src/card_manage.c",
+  "file": "/home/share/meiou/outdoor_pro/src/card_manage.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/src/detection_call.c.o   -c /home/share/meiou/outdoor_pro/src/detection_call.c",
+  "file": "/home/share/meiou/outdoor_pro/src/detection_call.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/src/device_led.c.o   -c /home/share/meiou/outdoor_pro/src/device_led.c",
+  "file": "/home/share/meiou/outdoor_pro/src/device_led.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/src/ircut.c.o   -c /home/share/meiou/outdoor_pro/src/ircut.c",
+  "file": "/home/share/meiou/outdoor_pro/src/ircut.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/src/main.c.o   -c /home/share/meiou/outdoor_pro/src/main.c",
+  "file": "/home/share/meiou/outdoor_pro/src/main.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/src/motion_detect.c.o   -c /home/share/meiou/outdoor_pro/src/motion_detect.c",
+  "file": "/home/share/meiou/outdoor_pro/src/motion_detect.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/src/outdoor_device.c.o   -c /home/share/meiou/outdoor_pro/src/outdoor_device.c",
+  "file": "/home/share/meiou/outdoor_pro/src/outdoor_device.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/src/outdoor_unlock.c.o   -c /home/share/meiou/outdoor_pro/src/outdoor_unlock.c",
+  "file": "/home/share/meiou/outdoor_pro/src/outdoor_unlock.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/src/user_data.c.o   -c /home/share/meiou/outdoor_pro/src/user_data.c",
+  "file": "/home/share/meiou/outdoor_pro/src/user_data.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/common/ak_conf.c.o   -c /home/share/meiou/outdoor_pro/common/ak_conf.c",
+  "file": "/home/share/meiou/outdoor_pro/common/ak_conf.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/common/ak_drv.c.o   -c /home/share/meiou/outdoor_pro/common/ak_drv.c",
+  "file": "/home/share/meiou/outdoor_pro/common/ak_drv.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/common/ak_drv_wdt.c.o   -c /home/share/meiou/outdoor_pro/common/ak_drv_wdt.c",
+  "file": "/home/share/meiou/outdoor_pro/common/ak_drv_wdt.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/common/ak_ps_ir.c.o   -c /home/share/meiou/outdoor_pro/common/ak_ps_ir.c",
+  "file": "/home/share/meiou/outdoor_pro/common/ak_ps_ir.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/common/app_common.c.o   -c /home/share/meiou/outdoor_pro/common/app_common.c",
+  "file": "/home/share/meiou/outdoor_pro/common/app_common.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/common/audio_input.c.o   -c /home/share/meiou/outdoor_pro/common/audio_input.c",
+  "file": "/home/share/meiou/outdoor_pro/common/audio_input.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/common/audio_output.c.o   -c /home/share/meiou/outdoor_pro/common/audio_output.c",
+  "file": "/home/share/meiou/outdoor_pro/common/audio_output.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/common/audio_play.c.o   -c /home/share/meiou/outdoor_pro/common/audio_play.c",
+  "file": "/home/share/meiou/outdoor_pro/common/audio_play.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/common/gpio_base.c.o   -c /home/share/meiou/outdoor_pro/common/gpio_base.c",
+  "file": "/home/share/meiou/outdoor_pro/common/gpio_base.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/common/leo_pwm.c.o   -c /home/share/meiou/outdoor_pro/common/leo_pwm.c",
+  "file": "/home/share/meiou/outdoor_pro/common/leo_pwm.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/common/network_audio_package.c.o   -c /home/share/meiou/outdoor_pro/common/network_audio_package.c",
+  "file": "/home/share/meiou/outdoor_pro/common/network_audio_package.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/common/network_common.c.o   -c /home/share/meiou/outdoor_pro/common/network_common.c",
+  "file": "/home/share/meiou/outdoor_pro/common/network_common.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/common/network_video_package.c.o   -c /home/share/meiou/outdoor_pro/common/network_video_package.c",
+  "file": "/home/share/meiou/outdoor_pro/common/network_video_package.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/common/queue.c.o   -c /home/share/meiou/outdoor_pro/common/queue.c",
+  "file": "/home/share/meiou/outdoor_pro/common/queue.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/common/tcp_network.c.o   -c /home/share/meiou/outdoor_pro/common/tcp_network.c",
+  "file": "/home/share/meiou/outdoor_pro/common/tcp_network.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/common/video_input.c.o   -c /home/share/meiou/outdoor_pro/common/video_input.c",
+  "file": "/home/share/meiou/outdoor_pro/common/video_input.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/common/tcp_server/tcp_network_cmd.c.o   -c /home/share/meiou/outdoor_pro/common/tcp_server/tcp_network_cmd.c",
+  "file": "/home/share/meiou/outdoor_pro/common/tcp_server/tcp_network_cmd.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/common/tcp_server/tcp_server.c.o   -c /home/share/meiou/outdoor_pro/common/tcp_server/tcp_server.c",
+  "file": "/home/share/meiou/outdoor_pro/common/tcp_server/tcp_server.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src   -O3 -Wall -std=gnu11 -s   -o CMakeFiles/net_camera.dir/common/tcp_server/tcp_socket.c.o   -c /home/share/meiou/outdoor_pro/common/tcp_server/tcp_socket.c",
+  "file": "/home/share/meiou/outdoor_pro/common/tcp_server/tcp_socket.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/cb_search.c.o   -c /home/share/meiou/outdoor_pro/share/speex/cb_search.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/cb_search.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/exc_10_32_table.c.o   -c /home/share/meiou/outdoor_pro/share/speex/exc_10_32_table.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/exc_10_32_table.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/exc_8_128_table.c.o   -c /home/share/meiou/outdoor_pro/share/speex/exc_8_128_table.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/exc_8_128_table.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/filters.c.o   -c /home/share/meiou/outdoor_pro/share/speex/filters.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/filters.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/gain_table.c.o   -c /home/share/meiou/outdoor_pro/share/speex/gain_table.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/gain_table.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/hexc_table.c.o   -c /home/share/meiou/outdoor_pro/share/speex/hexc_table.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/hexc_table.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/high_lsp_tables.c.o   -c /home/share/meiou/outdoor_pro/share/speex/high_lsp_tables.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/high_lsp_tables.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/lsp.c.o   -c /home/share/meiou/outdoor_pro/share/speex/lsp.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/lsp.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/ltp.c.o   -c /home/share/meiou/outdoor_pro/share/speex/ltp.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/ltp.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/speex.c.o   -c /home/share/meiou/outdoor_pro/share/speex/speex.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/speex.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/stereo.c.o   -c /home/share/meiou/outdoor_pro/share/speex/stereo.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/stereo.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/vbr.c.o   -c /home/share/meiou/outdoor_pro/share/speex/vbr.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/vbr.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/vq.c.o   -c /home/share/meiou/outdoor_pro/share/speex/vq.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/vq.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/bits.c.o   -c /home/share/meiou/outdoor_pro/share/speex/bits.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/bits.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/exc_10_16_table.c.o   -c /home/share/meiou/outdoor_pro/share/speex/exc_10_16_table.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/exc_10_16_table.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/exc_20_32_table.c.o   -c /home/share/meiou/outdoor_pro/share/speex/exc_20_32_table.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/exc_20_32_table.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/exc_5_256_table.c.o   -c /home/share/meiou/outdoor_pro/share/speex/exc_5_256_table.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/exc_5_256_table.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/exc_5_64_table.c.o   -c /home/share/meiou/outdoor_pro/share/speex/exc_5_64_table.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/exc_5_64_table.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/gain_table_lbr.c.o   -c /home/share/meiou/outdoor_pro/share/speex/gain_table_lbr.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/gain_table_lbr.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/hexc_10_32_table.c.o   -c /home/share/meiou/outdoor_pro/share/speex/hexc_10_32_table.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/hexc_10_32_table.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/lpc.c.o   -c /home/share/meiou/outdoor_pro/share/speex/lpc.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/lpc.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/lsp_tables_nb.c.o   -c /home/share/meiou/outdoor_pro/share/speex/lsp_tables_nb.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/lsp_tables_nb.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/modes.c.o   -c /home/share/meiou/outdoor_pro/share/speex/modes.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/modes.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/modes_wb.c.o   -c /home/share/meiou/outdoor_pro/share/speex/modes_wb.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/modes_wb.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/nb_celp.c.o   -c /home/share/meiou/outdoor_pro/share/speex/nb_celp.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/nb_celp.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/quant_lsp.c.o   -c /home/share/meiou/outdoor_pro/share/speex/quant_lsp.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/quant_lsp.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/sb_celp.c.o   -c /home/share/meiou/outdoor_pro/share/speex/sb_celp.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/sb_celp.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/speex_callbacks.c.o   -c /home/share/meiou/outdoor_pro/share/speex/speex_callbacks.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/speex_callbacks.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/speex_header.c.o   -c /home/share/meiou/outdoor_pro/share/speex/speex_header.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/speex_header.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/window.c.o   -c /home/share/meiou/outdoor_pro/share/speex/window.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/window.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/kiss_fft.c.o   -c /home/share/meiou/outdoor_pro/share/speex/kiss_fft.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/kiss_fft.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/kiss_fftr.c.o   -c /home/share/meiou/outdoor_pro/share/speex/kiss_fftr.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/kiss_fftr.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/preprocess.c.o   -c /home/share/meiou/outdoor_pro/share/speex/preprocess.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/preprocess.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/jitter.c.o   -c /home/share/meiou/outdoor_pro/share/speex/jitter.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/jitter.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/mdf.c.o   -c /home/share/meiou/outdoor_pro/share/speex/mdf.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/mdf.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/fftwrap.c.o   -c /home/share/meiou/outdoor_pro/share/speex/fftwrap.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/fftwrap.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/filterbank.c.o   -c /home/share/meiou/outdoor_pro/share/speex/filterbank.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/filterbank.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/resample.c.o   -c /home/share/meiou/outdoor_pro/share/speex/resample.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/resample.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/buffer.c.o   -c /home/share/meiou/outdoor_pro/share/speex/buffer.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/buffer.c"
+},
+
+{
+  "directory": "/home/share/meiou/outdoor_pro/build",
+  "command": "/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc -DENABLE_DEBUG -DENABLE_TRACE -DHAVE_CONFIG_H -DHAVE_PTHREAD -DOSIP_MT -I.././include -I.././include/anyka3918 -I.././include/g711 -I.././include/libmad -I.././share/include -I.././common -I.././common/tcp_server -I.././src -I../share/speex/../include   -O3 -Wall -std=gnu11 -s   -o share/speex/CMakeFiles/speex.dir/scal.c.o   -c /home/share/meiou/outdoor_pro/share/speex/scal.c",
+  "file": "/home/share/meiou/outdoor_pro/share/speex/scal.c"
+}
+]

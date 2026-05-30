@@ -1,0 +1,34 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leo/workspace/MEIOU/Application/OR/OR-2NP-Outdoor/daemon/net_indoor.c
+netinet/in.h
+-
+sys/socket.h
+-
+sys/select.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+dirent.h
+-
+sys/stat.h
+-
+stdbool.h
+-
+arpa/inet.h
+-
+pthread.h
+/home/leo/workspace/MEIOU/Application/OR/OR-2NP-Outdoor/daemon/pthread.h
+

@@ -1,0 +1,191 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "src/lv_qrcode/liblv_qrcode_lib.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"src/lv_qrcode/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 4,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 3,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "ADMIN_CARD_MANAGEMENT"
+				},
+				{
+					"define" : "ADMIN_FINGER_MANAGEMENT"
+				},
+				{
+					"define" : "APP_DEFAULT_PATH=\"/etc/config/\""
+				},
+				{
+					"define" : "AUDIO_CONFIG_DEFAULT"
+				},
+				{
+					"define" : "DHCP_IPCAMERA"
+				},
+				{
+					"define" : "FAMILY_TRANSFER_MODULE"
+				},
+				{
+					"define" : "HOME_MECHANICAL_KEY"
+				},
+				{
+					"define" : "IPC_APP_PID=\"njqrhy6hluxsfqsx\""
+				},
+				{
+					"define" : "JEATONE_VERSION"
+				},
+				{
+					"define" : "LV_LVGL_H_INCLUDE_SIMPLE"
+				},
+				{
+					"define" : "MAILBOX_MODULE_EN"
+				},
+				{
+					"define" : "MUSIC_FILE_PATH=\"/mnt/tf/music/\""
+				},
+				{
+					"define" : "PUBLIC_VERSION"
+				},
+				{
+					"define" : "RING_BACK_MODIFY"
+				},
+				{
+					"define" : "RING_FILE_PATH=\"/app/app/rings/\""
+				},
+				{
+					"define" : "ROM_BIN_PATH=\"/app/app/rom.bin\""
+				},
+				{
+					"define" : "ROM_BIN_TEMP_PATH=\"/tmp/rom.bin\""
+				},
+				{
+					"define" : "SARADC_DETECT"
+				},
+				{
+					"define" : "SDCARD_PARTITION"
+				},
+				{
+					"define" : "TTF_FILE_PATH=\"/app/app/sat_leo.ttf\""
+				},
+				{
+					"define" : "TTF_XLS_PATH=\"/app/app/language.xls\""
+				},
+				{
+					"define" : "TUYA_DATA_PATH=\"/app/data/\""
+				},
+				{
+					"define" : "USER_FILE_PATH=\"/app/data/\""
+				},
+				{
+					"define" : "WLAN_CHECK_PATH=\"/etc/config/wlan_check.sh\""
+				},
+				{
+					"define" : "WPA_SUPPLICANT_PATH=\"/etc/config/wpa_supplicant.conf\""
+				},
+				{
+					"define" : "_GNU_SOURCE"
+				},
+				{
+					"define" : "__LITTLE_ENDIAN__"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 2,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/lv_qrcode/../lv_drivers"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2
+			]
+		}
+	],
+	"id" : "lv_qrcode_lib::@9a7a9ed36344acc88b7e",
+	"name" : "lv_qrcode_lib",
+	"nameOnDisk" : "liblv_qrcode_lib.a",
+	"paths" : 
+	{
+		"build" : "src/lv_qrcode",
+		"source" : "src/lv_qrcode"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/lv_qrcode/lv_jpg_decode.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/lv_qrcode/lv_qrcode.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/lv_qrcode/qrcodegen.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

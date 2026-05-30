@@ -1,0 +1,949 @@
+The system is: Linux - 4.15.0-213-generic - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-gcc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/3.25.2/CompilerIdC/a.out"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeScratch/TryCompile-M7Gj7L
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_0f6a3/fast && /usr/bin/make  -f CMakeFiles/cmTC_0f6a3.dir/build.make CMakeFiles/cmTC_0f6a3.dir/build
+make[1]: Entering directory '/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeScratch/TryCompile-M7Gj7L'
+Building C object CMakeFiles/cmTC_0f6a3.dir/CMakeCCompilerABI.c.o
+/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-gcc   -v -o CMakeFiles/cmTC_0f6a3.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-3.25/Modules/CMakeCCompilerABI.c
+Using built-in specs.
+COLLECT_GCC=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-gcc.br_real
+Target: arm-anykav500-linux-uclibcgnueabi
+Configured with: ./configure --prefix=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --sysconfdir=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/etc --enable-static --target=arm-anykav500-linux-uclibcgnueabi --with-sysroot=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot --disable-__cxa_atexit --with-gnu-ld --disable-multilib --with-gmp=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-mpc=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-mpfr=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-pkgversion='Buildroot 2018.02.7_V1.0.05-gec2d034' --with-bugurl=http://bugs.buildroot.net/ --disable-libquadmath --disable-libsanitizer --enable-tls --disable-libmudflap --enable-threads --without-isl --without-cloog --with-float=soft --disable-decimal-float --with-abi=aapcs-linux --with-cpu=arm926ej-s --with-float=soft --with-mode=arm --enable-languages=c,c++ --with-build-time-tools=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/bin --enable-shared --disable-libgomp --enable-libssp
+Thread model: posix
+gcc version 4.9.4 (Buildroot 2018.02.7_V1.0.05-gec2d034) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0f6a3.dir/CMakeCCompilerABI.c.o' '-c' '-mcpu=arm926ej-s' '-mfloat-abi=soft' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/cc1 -quiet -v -iprefix /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/ -isysroot /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot /usr/share/cmake-3.25/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=arm926ej-s -mfloat-abi=soft -mabi=aapcs-linux -marm -mtls-dialect=gnu -auxbase-strip CMakeFiles/cmTC_0f6a3.dir/CMakeCCompilerABI.c.o -version -o /tmp/cc3yAKBn.s
+GNU C (Buildroot 2018.02.7_V1.0.05-gec2d034) version 4.9.4 (arm-anykav500-linux-uclibcgnueabi)
+	compiled by GNU C version 5.4.0 20160609, GMP version 6.1.2, MPFR version 3.1.6, MPC version 1.0.3
+warning: GMP header version 6.1.2 differs from library version 6.2.1.
+warning: MPFR header version 3.1.6 differs from library version 4.0.1.
+warning: MPC header version 1.0.3 differs from library version 1.1.0.
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring duplicate directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/../../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include"
+ignoring nonexistent directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/local/include"
+ignoring duplicate directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/../../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include-fixed"
+ignoring duplicate directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/../../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include-fixed
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include
+End of search list.
+GNU C (Buildroot 2018.02.7_V1.0.05-gec2d034) version 4.9.4 (arm-anykav500-linux-uclibcgnueabi)
+	compiled by GNU C version 5.4.0 20160609, GMP version 6.1.2, MPFR version 3.1.6, MPC version 1.0.3
+warning: GMP header version 6.1.2 differs from library version 6.2.1.
+warning: MPFR header version 3.1.6 differs from library version 4.0.1.
+warning: MPC header version 1.0.3 differs from library version 1.1.0.
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: f90187db2200eec05a5909ea840154ee
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0f6a3.dir/CMakeCCompilerABI.c.o' '-c' '-mcpu=arm926ej-s' '-mfloat-abi=soft' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/bin/as -v -mcpu=arm926ej-s -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_0f6a3.dir/CMakeCCompilerABI.c.o /tmp/cc3yAKBn.s
+GNU assembler version 2.29.1 (arm-anykav500-linux-uclibcgnueabi) using BFD version (GNU Binutils) 2.29.1
+COMPILER_PATH=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/bin/
+LIBRARY_PATH=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/lib/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0f6a3.dir/CMakeCCompilerABI.c.o' '-c' '-mcpu=arm926ej-s' '-mfloat-abi=soft' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
+Linking C executable cmTC_0f6a3
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0f6a3.dir/link.txt --verbose=1
+/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -v CMakeFiles/cmTC_0f6a3.dir/CMakeCCompilerABI.c.o -o cmTC_0f6a3 
+Using built-in specs.
+COLLECT_GCC=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-gcc.br_real
+COLLECT_LTO_WRAPPER=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/lto-wrapper
+Target: arm-anykav500-linux-uclibcgnueabi
+Configured with: ./configure --prefix=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --sysconfdir=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/etc --enable-static --target=arm-anykav500-linux-uclibcgnueabi --with-sysroot=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot --disable-__cxa_atexit --with-gnu-ld --disable-multilib --with-gmp=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-mpc=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-mpfr=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-pkgversion='Buildroot 2018.02.7_V1.0.05-gec2d034' --with-bugurl=http://bugs.buildroot.net/ --disable-libquadmath --disable-libsanitizer --enable-tls --disable-libmudflap --enable-threads --without-isl --without-cloog --with-float=soft --disable-decimal-float --with-abi=aapcs-linux --with-cpu=arm926ej-s --with-float=soft --with-mode=arm --enable-languages=c,c++ --with-build-time-tools=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/bin --enable-shared --disable-libgomp --enable-libssp
+Thread model: posix
+gcc version 4.9.4 (Buildroot 2018.02.7_V1.0.05-gec2d034) 
+COMPILER_PATH=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/bin/
+LIBRARY_PATH=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/lib/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_0f6a3' '-mcpu=arm926ej-s' '-mfloat-abi=soft' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/collect2 -plugin /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/liblto_plugin.so -plugin-opt=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/lto-wrapper -plugin-opt=-fresolution=/tmp/ccuEEAdN.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot --eh-frame-hdr -dynamic-linker /lib/ld-uClibc.so.0 -X -m armelf_linux_eabi -o cmTC_0f6a3 /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crt1.o /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crti.o /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtbegin.o -L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4 -L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc -L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/lib -L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib -L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib CMakeFiles/cmTC_0f6a3.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtend.o /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crtn.o
+make[1]: Leaving directory '/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeScratch/TryCompile-M7Gj7L'
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include]
+    add: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include-fixed]
+    add: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include]
+    add: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include]
+  end of search list found
+  collapse include dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include]
+  collapse include dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include-fixed] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include-fixed]
+  collapse include dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/include]
+  collapse include dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include]
+  implicit include dirs: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include-fixed;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/include;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(arm-anykav500-linux-uclibcgnueabi-ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeScratch/TryCompile-M7Gj7L]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/make -f Makefile cmTC_0f6a3/fast && /usr/bin/make  -f CMakeFiles/cmTC_0f6a3.dir/build.make CMakeFiles/cmTC_0f6a3.dir/build]
+  ignore line: [make[1]: Entering directory '/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeScratch/TryCompile-M7Gj7L']
+  ignore line: [Building C object CMakeFiles/cmTC_0f6a3.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-gcc   -v -o CMakeFiles/cmTC_0f6a3.dir/CMakeCCompilerABI.c.o -c /usr/share/cmake-3.25/Modules/CMakeCCompilerABI.c]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-gcc.br_real]
+  ignore line: [Target: arm-anykav500-linux-uclibcgnueabi]
+  ignore line: [Configured with: ./configure --prefix=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --sysconfdir=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/etc --enable-static --target=arm-anykav500-linux-uclibcgnueabi --with-sysroot=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot --disable-__cxa_atexit --with-gnu-ld --disable-multilib --with-gmp=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-mpc=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-mpfr=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-pkgversion='Buildroot 2018.02.7_V1.0.05-gec2d034' --with-bugurl=http://bugs.buildroot.net/ --disable-libquadmath --disable-libsanitizer --enable-tls --disable-libmudflap --enable-threads --without-isl --without-cloog --with-float=soft --disable-decimal-float --with-abi=aapcs-linux --with-cpu=arm926ej-s --with-float=soft --with-mode=arm --enable-languages=c,c++ --with-build-time-tools=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/bin --enable-shared --disable-libgomp --enable-libssp]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 4.9.4 (Buildroot 2018.02.7_V1.0.05-gec2d034) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0f6a3.dir/CMakeCCompilerABI.c.o' '-c' '-mcpu=arm926ej-s' '-mfloat-abi=soft' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
+  ignore line: [ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/cc1 -quiet -v -iprefix /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/ -isysroot /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot /usr/share/cmake-3.25/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mcpu=arm926ej-s -mfloat-abi=soft -mabi=aapcs-linux -marm -mtls-dialect=gnu -auxbase-strip CMakeFiles/cmTC_0f6a3.dir/CMakeCCompilerABI.c.o -version -o /tmp/cc3yAKBn.s]
+  ignore line: [GNU C (Buildroot 2018.02.7_V1.0.05-gec2d034) version 4.9.4 (arm-anykav500-linux-uclibcgnueabi)]
+  ignore line: [	compiled by GNU C version 5.4.0 20160609  GMP version 6.1.2  MPFR version 3.1.6  MPC version 1.0.3]
+  ignore line: [warning: GMP header version 6.1.2 differs from library version 6.2.1.]
+  ignore line: [warning: MPFR header version 3.1.6 differs from library version 4.0.1.]
+  ignore line: [warning: MPC header version 1.0.3 differs from library version 1.1.0.]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring duplicate directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/../../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include"]
+  ignore line: [ignoring nonexistent directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/local/include"]
+  ignore line: [ignoring duplicate directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/../../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include-fixed"]
+  ignore line: [ignoring duplicate directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/../../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include]
+  ignore line: [ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include-fixed]
+  ignore line: [ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include]
+  ignore line: [ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C (Buildroot 2018.02.7_V1.0.05-gec2d034) version 4.9.4 (arm-anykav500-linux-uclibcgnueabi)]
+  ignore line: [	compiled by GNU C version 5.4.0 20160609  GMP version 6.1.2  MPFR version 3.1.6  MPC version 1.0.3]
+  ignore line: [warning: GMP header version 6.1.2 differs from library version 6.2.1.]
+  ignore line: [warning: MPFR header version 3.1.6 differs from library version 4.0.1.]
+  ignore line: [warning: MPC header version 1.0.3 differs from library version 1.1.0.]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: f90187db2200eec05a5909ea840154ee]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0f6a3.dir/CMakeCCompilerABI.c.o' '-c' '-mcpu=arm926ej-s' '-mfloat-abi=soft' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
+  ignore line: [ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/bin/as -v -mcpu=arm926ej-s -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_0f6a3.dir/CMakeCCompilerABI.c.o /tmp/cc3yAKBn.s]
+  ignore line: [GNU assembler version 2.29.1 (arm-anykav500-linux-uclibcgnueabi) using BFD version (GNU Binutils) 2.29.1]
+  ignore line: [COMPILER_PATH=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/bin/]
+  ignore line: [LIBRARY_PATH=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/lib/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_0f6a3.dir/CMakeCCompilerABI.c.o' '-c' '-mcpu=arm926ej-s' '-mfloat-abi=soft' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
+  ignore line: [Linking C executable cmTC_0f6a3]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_0f6a3.dir/link.txt --verbose=1]
+  ignore line: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -v CMakeFiles/cmTC_0f6a3.dir/CMakeCCompilerABI.c.o -o cmTC_0f6a3 ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-gcc.br_real]
+  ignore line: [COLLECT_LTO_WRAPPER=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/lto-wrapper]
+  ignore line: [Target: arm-anykav500-linux-uclibcgnueabi]
+  ignore line: [Configured with: ./configure --prefix=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --sysconfdir=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/etc --enable-static --target=arm-anykav500-linux-uclibcgnueabi --with-sysroot=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot --disable-__cxa_atexit --with-gnu-ld --disable-multilib --with-gmp=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-mpc=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-mpfr=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-pkgversion='Buildroot 2018.02.7_V1.0.05-gec2d034' --with-bugurl=http://bugs.buildroot.net/ --disable-libquadmath --disable-libsanitizer --enable-tls --disable-libmudflap --enable-threads --without-isl --without-cloog --with-float=soft --disable-decimal-float --with-abi=aapcs-linux --with-cpu=arm926ej-s --with-float=soft --with-mode=arm --enable-languages=c,c++ --with-build-time-tools=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/bin --enable-shared --disable-libgomp --enable-libssp]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 4.9.4 (Buildroot 2018.02.7_V1.0.05-gec2d034) ]
+  ignore line: [COMPILER_PATH=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/bin/]
+  ignore line: [LIBRARY_PATH=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/lib/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_0f6a3' '-mcpu=arm926ej-s' '-mfloat-abi=soft' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
+  link line: [ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/collect2 -plugin /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/liblto_plugin.so -plugin-opt=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/lto-wrapper -plugin-opt=-fresolution=/tmp/ccuEEAdN.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --sysroot=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot --eh-frame-hdr -dynamic-linker /lib/ld-uClibc.so.0 -X -m armelf_linux_eabi -o cmTC_0f6a3 /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crt1.o /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crti.o /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtbegin.o -L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4 -L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc -L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/lib -L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib -L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib CMakeFiles/cmTC_0f6a3.dir/CMakeCCompilerABI.c.o -lgcc --as-needed -lgcc_s --no-as-needed -lc -lgcc --as-needed -lgcc_s --no-as-needed /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtend.o /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crtn.o]
+    arg [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccuEEAdN.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [--sysroot=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib/ld-uClibc.so.0] ==> ignore
+    arg [-X] ==> ignore
+    arg [-m] ==> ignore
+    arg [armelf_linux_eabi] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_0f6a3] ==> ignore
+    arg [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crt1.o] ==> obj [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crt1.o]
+    arg [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crti.o] ==> obj [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crti.o]
+    arg [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtbegin.o] ==> obj [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtbegin.o]
+    arg [-L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4] ==> dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4]
+    arg [-L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc] ==> dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc]
+    arg [-L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/lib] ==> dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/lib]
+    arg [-L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib] ==> dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib]
+    arg [-L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib] ==> dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib]
+    arg [CMakeFiles/cmTC_0f6a3.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [-lc] ==> lib [c]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--no-as-needed] ==> ignore
+    arg [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtend.o] ==> obj [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtend.o]
+    arg [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crtn.o] ==> obj [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crtn.o]
+  collapse obj [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtbegin.o] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtbegin.o]
+  collapse obj [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtend.o] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtend.o]
+  collapse library dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4]
+  collapse library dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc]
+  collapse library dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/lib] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/lib]
+  collapse library dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib]
+  collapse library dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib]
+  implicit libs: [gcc;gcc_s;c;gcc;gcc_s]
+  implicit objs: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crt1.o;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crti.o;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtbegin.o;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtend.o;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crtn.o]
+  implicit dirs: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/lib;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib]
+  implicit fwks: []
+
+
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+arm-anykav500-linux-uclibcgnueabi-gcc.br_real (Buildroot 2018.02.7_V1.0.05-gec2d034) 4.9.4
+Copyright (C) 2015 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-g++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/3.25.2/CompilerIdCXX/a.out"
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeScratch/TryCompile-GmOsld
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_39df1/fast && /usr/bin/make  -f CMakeFiles/cmTC_39df1.dir/build.make CMakeFiles/cmTC_39df1.dir/build
+make[1]: Entering directory '/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeScratch/TryCompile-GmOsld'
+Building CXX object CMakeFiles/cmTC_39df1.dir/CMakeCXXCompilerABI.cpp.o
+/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-g++   -v -o CMakeFiles/cmTC_39df1.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp
+Using built-in specs.
+COLLECT_GCC=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-g++.br_real
+Target: arm-anykav500-linux-uclibcgnueabi
+Configured with: ./configure --prefix=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --sysconfdir=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/etc --enable-static --target=arm-anykav500-linux-uclibcgnueabi --with-sysroot=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot --disable-__cxa_atexit --with-gnu-ld --disable-multilib --with-gmp=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-mpc=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-mpfr=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-pkgversion='Buildroot 2018.02.7_V1.0.05-gec2d034' --with-bugurl=http://bugs.buildroot.net/ --disable-libquadmath --disable-libsanitizer --enable-tls --disable-libmudflap --enable-threads --without-isl --without-cloog --with-float=soft --disable-decimal-float --with-abi=aapcs-linux --with-cpu=arm926ej-s --with-float=soft --with-mode=arm --enable-languages=c,c++ --with-build-time-tools=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/bin --enable-shared --disable-libgomp --enable-libssp
+Thread model: posix
+gcc version 4.9.4 (Buildroot 2018.02.7_V1.0.05-gec2d034) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_39df1.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mcpu=arm926ej-s' '-mfloat-abi=soft' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/cc1plus -quiet -v -iprefix /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/ -isysroot /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot -D_GNU_SOURCE /usr/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=arm926ej-s -mfloat-abi=soft -mabi=aapcs-linux -marm -mtls-dialect=gnu -auxbase-strip CMakeFiles/cmTC_39df1.dir/CMakeCXXCompilerABI.cpp.o -version -o /tmp/ccIVjkpL.s
+GNU C++ (Buildroot 2018.02.7_V1.0.05-gec2d034) version 4.9.4 (arm-anykav500-linux-uclibcgnueabi)
+	compiled by GNU C version 5.4.0 20160609, GMP version 6.1.2, MPFR version 3.1.6, MPC version 1.0.3
+warning: GMP header version 6.1.2 differs from library version 6.2.1.
+warning: MPFR header version 3.1.6 differs from library version 4.0.1.
+warning: MPC header version 1.0.3 differs from library version 1.1.0.
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring duplicate directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/../../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4"
+ignoring duplicate directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/../../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4/arm-anykav500-linux-uclibcgnueabi"
+ignoring duplicate directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/../../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4/backward"
+ignoring duplicate directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/../../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include"
+ignoring nonexistent directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/local/include"
+ignoring duplicate directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/../../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include-fixed"
+ignoring duplicate directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/../../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4/arm-anykav500-linux-uclibcgnueabi
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4/backward
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include-fixed
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include
+End of search list.
+GNU C++ (Buildroot 2018.02.7_V1.0.05-gec2d034) version 4.9.4 (arm-anykav500-linux-uclibcgnueabi)
+	compiled by GNU C version 5.4.0 20160609, GMP version 6.1.2, MPFR version 3.1.6, MPC version 1.0.3
+warning: GMP header version 6.1.2 differs from library version 6.2.1.
+warning: MPFR header version 3.1.6 differs from library version 4.0.1.
+warning: MPC header version 1.0.3 differs from library version 1.1.0.
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: cdabe829f67bf83b4ce22a86bb5c91d1
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_39df1.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mcpu=arm926ej-s' '-mfloat-abi=soft' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/bin/as -v -mcpu=arm926ej-s -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_39df1.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccIVjkpL.s
+GNU assembler version 2.29.1 (arm-anykav500-linux-uclibcgnueabi) using BFD version (GNU Binutils) 2.29.1
+COMPILER_PATH=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/bin/
+LIBRARY_PATH=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/lib/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_39df1.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mcpu=arm926ej-s' '-mfloat-abi=soft' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
+Linking CXX executable cmTC_39df1
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_39df1.dir/link.txt --verbose=1
+/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-g++  -v CMakeFiles/cmTC_39df1.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_39df1 
+Using built-in specs.
+COLLECT_GCC=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-g++.br_real
+COLLECT_LTO_WRAPPER=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/lto-wrapper
+Target: arm-anykav500-linux-uclibcgnueabi
+Configured with: ./configure --prefix=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --sysconfdir=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/etc --enable-static --target=arm-anykav500-linux-uclibcgnueabi --with-sysroot=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot --disable-__cxa_atexit --with-gnu-ld --disable-multilib --with-gmp=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-mpc=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-mpfr=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-pkgversion='Buildroot 2018.02.7_V1.0.05-gec2d034' --with-bugurl=http://bugs.buildroot.net/ --disable-libquadmath --disable-libsanitizer --enable-tls --disable-libmudflap --enable-threads --without-isl --without-cloog --with-float=soft --disable-decimal-float --with-abi=aapcs-linux --with-cpu=arm926ej-s --with-float=soft --with-mode=arm --enable-languages=c,c++ --with-build-time-tools=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/bin --enable-shared --disable-libgomp --enable-libssp
+Thread model: posix
+gcc version 4.9.4 (Buildroot 2018.02.7_V1.0.05-gec2d034) 
+COMPILER_PATH=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/bin/
+LIBRARY_PATH=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/lib/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_39df1' '-shared-libgcc' '-mcpu=arm926ej-s' '-mfloat-abi=soft' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu'
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/collect2 -plugin /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/liblto_plugin.so -plugin-opt=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/lto-wrapper -plugin-opt=-fresolution=/tmp/ccMaPH0Y.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot --eh-frame-hdr -dynamic-linker /lib/ld-uClibc.so.0 -X -m armelf_linux_eabi -o cmTC_39df1 /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crt1.o /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crti.o /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtbegin.o -L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4 -L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc -L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/lib -L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib -L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib CMakeFiles/cmTC_39df1.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtend.o /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crtn.o
+make[1]: Leaving directory '/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeScratch/TryCompile-GmOsld'
+
+
+
+Parsed CXX implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4]
+    add: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4/arm-anykav500-linux-uclibcgnueabi]
+    add: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4/backward]
+    add: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include]
+    add: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include-fixed]
+    add: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include]
+    add: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include]
+  end of search list found
+  collapse include dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4]
+  collapse include dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4/arm-anykav500-linux-uclibcgnueabi] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4/arm-anykav500-linux-uclibcgnueabi]
+  collapse include dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4/backward] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4/backward]
+  collapse include dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include]
+  collapse include dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include-fixed] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include-fixed]
+  collapse include dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/include]
+  collapse include dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include]
+  implicit include dirs: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4/arm-anykav500-linux-uclibcgnueabi;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4/backward;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include-fixed;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/include;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include]
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(arm-anykav500-linux-uclibcgnueabi-ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeScratch/TryCompile-GmOsld]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/make -f Makefile cmTC_39df1/fast && /usr/bin/make  -f CMakeFiles/cmTC_39df1.dir/build.make CMakeFiles/cmTC_39df1.dir/build]
+  ignore line: [make[1]: Entering directory '/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeScratch/TryCompile-GmOsld']
+  ignore line: [Building CXX object CMakeFiles/cmTC_39df1.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-g++   -v -o CMakeFiles/cmTC_39df1.dir/CMakeCXXCompilerABI.cpp.o -c /usr/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-g++.br_real]
+  ignore line: [Target: arm-anykav500-linux-uclibcgnueabi]
+  ignore line: [Configured with: ./configure --prefix=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --sysconfdir=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/etc --enable-static --target=arm-anykav500-linux-uclibcgnueabi --with-sysroot=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot --disable-__cxa_atexit --with-gnu-ld --disable-multilib --with-gmp=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-mpc=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-mpfr=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-pkgversion='Buildroot 2018.02.7_V1.0.05-gec2d034' --with-bugurl=http://bugs.buildroot.net/ --disable-libquadmath --disable-libsanitizer --enable-tls --disable-libmudflap --enable-threads --without-isl --without-cloog --with-float=soft --disable-decimal-float --with-abi=aapcs-linux --with-cpu=arm926ej-s --with-float=soft --with-mode=arm --enable-languages=c,c++ --with-build-time-tools=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/bin --enable-shared --disable-libgomp --enable-libssp]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 4.9.4 (Buildroot 2018.02.7_V1.0.05-gec2d034) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_39df1.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mcpu=arm926ej-s' '-mfloat-abi=soft' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
+  ignore line: [ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/cc1plus -quiet -v -iprefix /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/ -isysroot /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot -D_GNU_SOURCE /usr/share/cmake-3.25/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mcpu=arm926ej-s -mfloat-abi=soft -mabi=aapcs-linux -marm -mtls-dialect=gnu -auxbase-strip CMakeFiles/cmTC_39df1.dir/CMakeCXXCompilerABI.cpp.o -version -o /tmp/ccIVjkpL.s]
+  ignore line: [GNU C++ (Buildroot 2018.02.7_V1.0.05-gec2d034) version 4.9.4 (arm-anykav500-linux-uclibcgnueabi)]
+  ignore line: [	compiled by GNU C version 5.4.0 20160609  GMP version 6.1.2  MPFR version 3.1.6  MPC version 1.0.3]
+  ignore line: [warning: GMP header version 6.1.2 differs from library version 6.2.1.]
+  ignore line: [warning: MPFR header version 3.1.6 differs from library version 4.0.1.]
+  ignore line: [warning: MPC header version 1.0.3 differs from library version 1.1.0.]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring duplicate directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/../../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4"]
+  ignore line: [ignoring duplicate directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/../../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4/arm-anykav500-linux-uclibcgnueabi"]
+  ignore line: [ignoring duplicate directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/../../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4/backward"]
+  ignore line: [ignoring duplicate directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/../../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include"]
+  ignore line: [ignoring nonexistent directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/local/include"]
+  ignore line: [ignoring duplicate directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/../../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include-fixed"]
+  ignore line: [ignoring duplicate directory "/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/../../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4]
+  ignore line: [ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4/arm-anykav500-linux-uclibcgnueabi]
+  ignore line: [ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include/c++/4.9.4/backward]
+  ignore line: [ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include]
+  ignore line: [ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include-fixed]
+  ignore line: [ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/include]
+  ignore line: [ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C++ (Buildroot 2018.02.7_V1.0.05-gec2d034) version 4.9.4 (arm-anykav500-linux-uclibcgnueabi)]
+  ignore line: [	compiled by GNU C version 5.4.0 20160609  GMP version 6.1.2  MPFR version 3.1.6  MPC version 1.0.3]
+  ignore line: [warning: GMP header version 6.1.2 differs from library version 6.2.1.]
+  ignore line: [warning: MPFR header version 3.1.6 differs from library version 4.0.1.]
+  ignore line: [warning: MPC header version 1.0.3 differs from library version 1.1.0.]
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: cdabe829f67bf83b4ce22a86bb5c91d1]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_39df1.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mcpu=arm926ej-s' '-mfloat-abi=soft' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
+  ignore line: [ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/bin/as -v -mcpu=arm926ej-s -mfloat-abi=soft -meabi=5 -o CMakeFiles/cmTC_39df1.dir/CMakeCXXCompilerABI.cpp.o /tmp/ccIVjkpL.s]
+  ignore line: [GNU assembler version 2.29.1 (arm-anykav500-linux-uclibcgnueabi) using BFD version (GNU Binutils) 2.29.1]
+  ignore line: [COMPILER_PATH=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/bin/]
+  ignore line: [LIBRARY_PATH=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/lib/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_39df1.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mcpu=arm926ej-s' '-mfloat-abi=soft' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
+  ignore line: [Linking CXX executable cmTC_39df1]
+  ignore line: [/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_39df1.dir/link.txt --verbose=1]
+  ignore line: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-g++  -v CMakeFiles/cmTC_39df1.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_39df1 ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-g++.br_real]
+  ignore line: [COLLECT_LTO_WRAPPER=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/lto-wrapper]
+  ignore line: [Target: arm-anykav500-linux-uclibcgnueabi]
+  ignore line: [Configured with: ./configure --prefix=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --sysconfdir=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/etc --enable-static --target=arm-anykav500-linux-uclibcgnueabi --with-sysroot=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot --disable-__cxa_atexit --with-gnu-ld --disable-multilib --with-gmp=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-mpc=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-mpfr=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi --with-pkgversion='Buildroot 2018.02.7_V1.0.05-gec2d034' --with-bugurl=http://bugs.buildroot.net/ --disable-libquadmath --disable-libsanitizer --enable-tls --disable-libmudflap --enable-threads --without-isl --without-cloog --with-float=soft --disable-decimal-float --with-abi=aapcs-linux --with-cpu=arm926ej-s --with-float=soft --with-mode=arm --enable-languages=c,c++ --with-build-time-tools=/home/leihaitao/nfs/project/buildroot/buildroot.stable/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/bin --enable-shared --disable-libgomp --enable-libssp]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 4.9.4 (Buildroot 2018.02.7_V1.0.05-gec2d034) ]
+  ignore line: [COMPILER_PATH=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/bin/]
+  ignore line: [LIBRARY_PATH=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/lib/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib/:/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_39df1' '-shared-libgcc' '-mcpu=arm926ej-s' '-mfloat-abi=soft' '-mabi=aapcs-linux' '-marm' '-mtls-dialect=gnu']
+  link line: [ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/collect2 -plugin /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/liblto_plugin.so -plugin-opt=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/lto-wrapper -plugin-opt=-fresolution=/tmp/ccMaPH0Y.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --sysroot=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot --eh-frame-hdr -dynamic-linker /lib/ld-uClibc.so.0 -X -m armelf_linux_eabi -o cmTC_39df1 /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crt1.o /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crti.o /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtbegin.o -L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4 -L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc -L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/lib -L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib -L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib CMakeFiles/cmTC_39df1.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtend.o /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crtn.o]
+    arg [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../libexec/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccMaPH0Y.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [--sysroot=/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib/ld-uClibc.so.0] ==> ignore
+    arg [-X] ==> ignore
+    arg [-m] ==> ignore
+    arg [armelf_linux_eabi] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_39df1] ==> ignore
+    arg [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crt1.o] ==> obj [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crt1.o]
+    arg [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crti.o] ==> obj [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crti.o]
+    arg [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtbegin.o] ==> obj [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtbegin.o]
+    arg [-L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4] ==> dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4]
+    arg [-L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc] ==> dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc]
+    arg [-L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/lib] ==> dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/lib]
+    arg [-L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib] ==> dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib]
+    arg [-L/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib] ==> dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib]
+    arg [CMakeFiles/cmTC_39df1.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [-lstdc++] ==> lib [stdc++]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtend.o] ==> obj [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtend.o]
+    arg [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crtn.o] ==> obj [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crtn.o]
+  collapse obj [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtbegin.o] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtbegin.o]
+  collapse obj [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtend.o] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtend.o]
+  collapse library dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4]
+  collapse library dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc]
+  collapse library dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/../lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/../../../../arm-anykav500-linux-uclibcgnueabi/lib] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/lib]
+  collapse library dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib]
+  collapse library dir [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib] ==> [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib]
+  implicit libs: [stdc++;m;gcc_s;gcc;c;gcc_s;gcc]
+  implicit objs: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crt1.o;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crti.o;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtbegin.o;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/crtend.o;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib/crtn.o]
+  implicit dirs: [/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/lib;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/lib;/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/lib]
+  implicit fwks: []
+
+
+
+
+Detecting CXX [-std=c++14] compiler features compiled with the following output:
+Change Dir: /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeScratch/TryCompile-zFZyKa
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_b0401/fast && /usr/bin/make  -f CMakeFiles/cmTC_b0401.dir/build.make CMakeFiles/cmTC_b0401.dir/build
+make[1]: 进入目录“/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeScratch/TryCompile-zFZyKa”
+Building CXX object CMakeFiles/cmTC_b0401.dir/feature_tests.cxx.o
+/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-g++   -std=c++14 -o CMakeFiles/cmTC_b0401.dir/feature_tests.cxx.o -c /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeScratch/TryCompile-zFZyKa/feature_tests.cxx
+Linking CXX executable cmTC_b0401
+/usr/bin/cmake -E cmake_link_script CMakeFiles/cmTC_b0401.dir/link.txt --verbose=1
+/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-g++ CMakeFiles/cmTC_b0401.dir/feature_tests.cxx.o -o cmTC_b0401 
+make[1]: 离开目录“/home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeScratch/TryCompile-zFZyKa”
+
+
+
+    Feature record: CXX_FEATURE:1cxx_template_template_parameters
+    Feature record: CXX_FEATURE:1cxx_alias_templates
+    Feature record: CXX_FEATURE:1cxx_alignas
+    Feature record: CXX_FEATURE:1cxx_alignof
+    Feature record: CXX_FEATURE:1cxx_attributes
+    Feature record: CXX_FEATURE:1cxx_auto_type
+    Feature record: CXX_FEATURE:1cxx_constexpr
+    Feature record: CXX_FEATURE:1cxx_decltype
+    Feature record: CXX_FEATURE:1cxx_decltype_incomplete_return_types
+    Feature record: CXX_FEATURE:1cxx_default_function_template_args
+    Feature record: CXX_FEATURE:1cxx_defaulted_functions
+    Feature record: CXX_FEATURE:1cxx_defaulted_move_initializers
+    Feature record: CXX_FEATURE:1cxx_delegating_constructors
+    Feature record: CXX_FEATURE:1cxx_deleted_functions
+    Feature record: CXX_FEATURE:1cxx_enum_forward_declarations
+    Feature record: CXX_FEATURE:1cxx_explicit_conversions
+    Feature record: CXX_FEATURE:1cxx_extended_friend_declarations
+    Feature record: CXX_FEATURE:1cxx_extern_templates
+    Feature record: CXX_FEATURE:1cxx_final
+    Feature record: CXX_FEATURE:1cxx_func_identifier
+    Feature record: CXX_FEATURE:1cxx_generalized_initializers
+    Feature record: CXX_FEATURE:1cxx_inheriting_constructors
+    Feature record: CXX_FEATURE:1cxx_inline_namespaces
+    Feature record: CXX_FEATURE:1cxx_lambdas
+    Feature record: CXX_FEATURE:1cxx_local_type_template_args
+    Feature record: CXX_FEATURE:1cxx_long_long_type
+    Feature record: CXX_FEATURE:1cxx_noexcept
+    Feature record: CXX_FEATURE:1cxx_nonstatic_member_init
+    Feature record: CXX_FEATURE:1cxx_nullptr
+    Feature record: CXX_FEATURE:1cxx_override
+    Feature record: CXX_FEATURE:1cxx_range_for
+    Feature record: CXX_FEATURE:1cxx_raw_string_literals
+    Feature record: CXX_FEATURE:1cxx_reference_qualified_functions
+    Feature record: CXX_FEATURE:1cxx_right_angle_brackets
+    Feature record: CXX_FEATURE:1cxx_rvalue_references
+    Feature record: CXX_FEATURE:1cxx_sizeof_member
+    Feature record: CXX_FEATURE:1cxx_static_assert
+    Feature record: CXX_FEATURE:1cxx_strong_enums
+    Feature record: CXX_FEATURE:1cxx_thread_local
+    Feature record: CXX_FEATURE:1cxx_trailing_return_types
+    Feature record: CXX_FEATURE:1cxx_unicode_literals
+    Feature record: CXX_FEATURE:1cxx_uniform_initialization
+    Feature record: CXX_FEATURE:1cxx_unrestricted_unions
+    Feature record: CXX_FEATURE:1cxx_user_literals
+    Feature record: CXX_FEATURE:1cxx_variadic_macros
+    Feature record: CXX_FEATURE:1cxx_variadic_templates
+    Feature record: CXX_FEATURE:0cxx_aggregate_default_initializers
+    Feature record: CXX_FEATURE:1cxx_attribute_deprecated
+    Feature record: CXX_FEATURE:1cxx_binary_literals
+    Feature record: CXX_FEATURE:1cxx_contextual_conversions
+    Feature record: CXX_FEATURE:1cxx_decltype_auto
+    Feature record: CXX_FEATURE:1cxx_digit_separators
+    Feature record: CXX_FEATURE:1cxx_generic_lambdas
+    Feature record: CXX_FEATURE:1cxx_lambda_init_captures
+    Feature record: CXX_FEATURE:0cxx_relaxed_constexpr
+    Feature record: CXX_FEATURE:1cxx_return_type_deduction
+    Feature record: CXX_FEATURE:0cxx_variable_templates
+The system is: Linux - 5.15.0-139-generic - x86_64
+Compiling the C compiler identification source file "CMakeCCompilerId.c" succeeded.
+Compiler: /usr/bin/cc 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the C compiler identification source "CMakeCCompilerId.c" produced "a.out"
+
+The C compiler identification is GNU, found in "/home/hlf/share/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/3.23.1/CompilerIdC/a.out"
+
+Detecting C compiler ABI info compiled with the following output:
+Change Dir: /home/hlf/share/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_5a286/fast && /usr/bin/make  -f CMakeFiles/cmTC_5a286.dir/build.make CMakeFiles/cmTC_5a286.dir/build
+make[1]: Entering directory '/home/hlf/share/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeTmp'
+Building C object CMakeFiles/cmTC_5a286.dir/CMakeCCompilerABI.c.o
+/usr/bin/cc   -v -o CMakeFiles/cmTC_5a286.dir/CMakeCCompilerABI.c.o -c /usr/local/share/cmake-3.23/Modules/CMakeCCompilerABI.c
+Using built-in specs.
+COLLECT_GCC=/usr/bin/cc
+OFFLOAD_TARGET_NAMES=nvptx-none:hsa
+OFFLOAD_TARGET_DEFAULT=1
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.4.0-1ubuntu1~20.04.2' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++,gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-9QDOt0/gcc-9-9.4.0/debian/tmp-nvptx/usr,hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_5a286.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/9/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/local/share/cmake-3.23/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_5a286.dir/CMakeCCompilerABI.c.o -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -o /tmp/ccDCo1Kc.s
+GNU C17 (Ubuntu 9.4.0-1ubuntu1~20.04.2) version 9.4.0 (x86_64-linux-gnu)
+	compiled by GNU C version 9.4.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22.1-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring nonexistent directory "/usr/local/include/x86_64-linux-gnu"
+ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed"
+ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/lib/gcc/x86_64-linux-gnu/9/include
+ /usr/local/include
+ /usr/include/x86_64-linux-gnu
+ /usr/include
+End of search list.
+GNU C17 (Ubuntu 9.4.0-1ubuntu1~20.04.2) version 9.4.0 (x86_64-linux-gnu)
+	compiled by GNU C version 9.4.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22.1-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 01da938ff5dc2163489aa33cb3b747a7
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_5a286.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
+ as -v --64 -o CMakeFiles/cmTC_5a286.dir/CMakeCCompilerABI.c.o /tmp/ccDCo1Kc.s
+GNU assembler version 2.34 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.34
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_5a286.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64'
+Linking C executable cmTC_5a286
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5a286.dir/link.txt --verbose=1
+/usr/bin/cc  -v CMakeFiles/cmTC_5a286.dir/CMakeCCompilerABI.c.o -o cmTC_5a286 
+Using built-in specs.
+COLLECT_GCC=/usr/bin/cc
+COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper
+OFFLOAD_TARGET_NAMES=nvptx-none:hsa
+OFFLOAD_TARGET_DEFAULT=1
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.4.0-1ubuntu1~20.04.2' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++,gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-9QDOt0/gcc-9-9.4.0/debian/tmp-nvptx/usr,hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2) 
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_5a286' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/9/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/9/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper -plugin-opt=-fresolution=/tmp/ccDJlN1D.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_5a286 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/9/../../.. CMakeFiles/cmTC_5a286.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_5a286' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/home/hlf/share/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeTmp'
+
+
+
+Parsed C implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/usr/lib/gcc/x86_64-linux-gnu/9/include]
+    add: [/usr/local/include]
+    add: [/usr/include/x86_64-linux-gnu]
+    add: [/usr/include]
+  end of search list found
+  collapse include dir [/usr/lib/gcc/x86_64-linux-gnu/9/include] ==> [/usr/lib/gcc/x86_64-linux-gnu/9/include]
+  collapse include dir [/usr/local/include] ==> [/usr/local/include]
+  collapse include dir [/usr/include/x86_64-linux-gnu] ==> [/usr/include/x86_64-linux-gnu]
+  collapse include dir [/usr/include] ==> [/usr/include]
+  implicit include dirs: [/usr/lib/gcc/x86_64-linux-gnu/9/include;/usr/local/include;/usr/include/x86_64-linux-gnu;/usr/include]
+
+
+Parsed C implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/hlf/share/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/make -f Makefile cmTC_5a286/fast && /usr/bin/make  -f CMakeFiles/cmTC_5a286.dir/build.make CMakeFiles/cmTC_5a286.dir/build]
+  ignore line: [make[1]: Entering directory '/home/hlf/share/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeTmp']
+  ignore line: [Building C object CMakeFiles/cmTC_5a286.dir/CMakeCCompilerABI.c.o]
+  ignore line: [/usr/bin/cc   -v -o CMakeFiles/cmTC_5a286.dir/CMakeCCompilerABI.c.o -c /usr/local/share/cmake-3.23/Modules/CMakeCCompilerABI.c]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/cc]
+  ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none:hsa]
+  ignore line: [OFFLOAD_TARGET_DEFAULT=1]
+  ignore line: [Target: x86_64-linux-gnu]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.4.0-1ubuntu1~20.04.2' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c ada c++ go brig d fortran objc obj-c++ gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32 m64 mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-9QDOt0/gcc-9-9.4.0/debian/tmp-nvptx/usr hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_5a286.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [ /usr/lib/gcc/x86_64-linux-gnu/9/cc1 -quiet -v -imultiarch x86_64-linux-gnu /usr/local/share/cmake-3.23/Modules/CMakeCCompilerABI.c -quiet -dumpbase CMakeCCompilerABI.c -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_5a286.dir/CMakeCCompilerABI.c.o -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -o /tmp/ccDCo1Kc.s]
+  ignore line: [GNU C17 (Ubuntu 9.4.0-1ubuntu1~20.04.2) version 9.4.0 (x86_64-linux-gnu)]
+  ignore line: [	compiled by GNU C version 9.4.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.22.1-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring nonexistent directory "/usr/local/include/x86_64-linux-gnu"]
+  ignore line: [ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed"]
+  ignore line: [ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /usr/lib/gcc/x86_64-linux-gnu/9/include]
+  ignore line: [ /usr/local/include]
+  ignore line: [ /usr/include/x86_64-linux-gnu]
+  ignore line: [ /usr/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C17 (Ubuntu 9.4.0-1ubuntu1~20.04.2) version 9.4.0 (x86_64-linux-gnu)]
+  ignore line: [	compiled by GNU C version 9.4.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.22.1-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: 01da938ff5dc2163489aa33cb3b747a7]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_5a286.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [ as -v --64 -o CMakeFiles/cmTC_5a286.dir/CMakeCCompilerABI.c.o /tmp/ccDCo1Kc.s]
+  ignore line: [GNU assembler version 2.34 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.34]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_5a286.dir/CMakeCCompilerABI.c.o' '-c' '-mtune=generic' '-march=x86-64']
+  ignore line: [Linking C executable cmTC_5a286]
+  ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_5a286.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/cc  -v CMakeFiles/cmTC_5a286.dir/CMakeCCompilerABI.c.o -o cmTC_5a286 ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/cc]
+  ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper]
+  ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none:hsa]
+  ignore line: [OFFLOAD_TARGET_DEFAULT=1]
+  ignore line: [Target: x86_64-linux-gnu]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.4.0-1ubuntu1~20.04.2' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c ada c++ go brig d fortran objc obj-c++ gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32 m64 mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-9QDOt0/gcc-9-9.4.0/debian/tmp-nvptx/usr hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2) ]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_5a286' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/9/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/9/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper -plugin-opt=-fresolution=/tmp/ccDJlN1D.res -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lgcc_s --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_5a286 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/9/../../.. CMakeFiles/cmTC_5a286.dir/CMakeCCompilerABI.c.o -lgcc --push-state --as-needed -lgcc_s --pop-state -lc -lgcc --push-state --as-needed -lgcc_s --pop-state /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccDJlN1D.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-pie] ==> ignore
+    arg [-znow] ==> ignore
+    arg [-zrelro] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_5a286] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib]
+    arg [-L/lib/x86_64-linux-gnu] ==> dir [/lib/x86_64-linux-gnu]
+    arg [-L/lib/../lib] ==> dir [/lib/../lib]
+    arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
+    arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../..]
+    arg [CMakeFiles/cmTC_5a286.dir/CMakeCCompilerABI.c.o] ==> ignore
+    arg [-lgcc] ==> lib [gcc]
+    arg [--push-state] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--pop-state] ==> ignore
+    arg [-lc] ==> lib [c]
+    arg [-lgcc] ==> lib [gcc]
+    arg [--push-state] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [--pop-state] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o]
+  collapse obj [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o] ==> [/usr/lib/x86_64-linux-gnu/Scrt1.o]
+  collapse obj [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o] ==> [/usr/lib/x86_64-linux-gnu/crti.o]
+  collapse obj [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o] ==> [/usr/lib/x86_64-linux-gnu/crtn.o]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9] ==> [/usr/lib/gcc/x86_64-linux-gnu/9]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib] ==> [/usr/lib]
+  collapse library dir [/lib/x86_64-linux-gnu] ==> [/lib/x86_64-linux-gnu]
+  collapse library dir [/lib/../lib] ==> [/lib]
+  collapse library dir [/usr/lib/x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/../lib] ==> [/usr/lib]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../..] ==> [/usr/lib]
+  implicit libs: [gcc;gcc_s;c;gcc;gcc_s]
+  implicit objs: [/usr/lib/x86_64-linux-gnu/Scrt1.o;/usr/lib/x86_64-linux-gnu/crti.o;/usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o;/usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o;/usr/lib/x86_64-linux-gnu/crtn.o]
+  implicit dirs: [/usr/lib/gcc/x86_64-linux-gnu/9;/usr/lib/x86_64-linux-gnu;/usr/lib;/lib/x86_64-linux-gnu;/lib]
+  implicit fwks: []
+
+
+Checking whether the ASM compiler is GNU using "--version" matched "(GNU assembler)|(GCC)|(Free Software Foundation)":
+cc (Ubuntu 9.4.0-1ubuntu1~20.04.2) 9.4.0
+Copyright (C) 2019 Free Software Foundation, Inc.
+This is free software; see the source for copying conditions.  There is NO
+warranty; not even for MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
+
+Compiling the CXX compiler identification source file "CMakeCXXCompilerId.cpp" succeeded.
+Compiler: /usr/bin/c++ 
+Build flags: 
+Id flags:  
+
+The output was:
+0
+
+
+Compilation of the CXX compiler identification source "CMakeCXXCompilerId.cpp" produced "a.out"
+
+The CXX compiler identification is GNU, found in "/home/hlf/share/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/3.23.1/CompilerIdCXX/a.out"
+
+Detecting CXX compiler ABI info compiled with the following output:
+Change Dir: /home/hlf/share/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeTmp
+
+Run Build Command(s):/usr/bin/make -f Makefile cmTC_04a77/fast && /usr/bin/make  -f CMakeFiles/cmTC_04a77.dir/build.make CMakeFiles/cmTC_04a77.dir/build
+make[1]: Entering directory '/home/hlf/share/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeTmp'
+Building CXX object CMakeFiles/cmTC_04a77.dir/CMakeCXXCompilerABI.cpp.o
+/usr/bin/c++   -v -o CMakeFiles/cmTC_04a77.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake-3.23/Modules/CMakeCXXCompilerABI.cpp
+Using built-in specs.
+COLLECT_GCC=/usr/bin/c++
+OFFLOAD_TARGET_NAMES=nvptx-none:hsa
+OFFLOAD_TARGET_DEFAULT=1
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.4.0-1ubuntu1~20.04.2' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++,gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-9QDOt0/gcc-9-9.4.0/debian/tmp-nvptx/usr,hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2) 
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_04a77.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/9/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE /usr/local/share/cmake-3.23/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_04a77.dir/CMakeCXXCompilerABI.cpp.o -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -o /tmp/cc1KBs1O.s
+GNU C++14 (Ubuntu 9.4.0-1ubuntu1~20.04.2) version 9.4.0 (x86_64-linux-gnu)
+	compiled by GNU C version 9.4.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22.1-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+ignoring duplicate directory "/usr/include/x86_64-linux-gnu/c++/9"
+ignoring nonexistent directory "/usr/local/include/x86_64-linux-gnu"
+ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed"
+ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include"
+#include "..." search starts here:
+#include <...> search starts here:
+ /usr/include/c++/9
+ /usr/include/x86_64-linux-gnu/c++/9
+ /usr/include/c++/9/backward
+ /usr/lib/gcc/x86_64-linux-gnu/9/include
+ /usr/local/include
+ /usr/include/x86_64-linux-gnu
+ /usr/include
+End of search list.
+GNU C++14 (Ubuntu 9.4.0-1ubuntu1~20.04.2) version 9.4.0 (x86_64-linux-gnu)
+	compiled by GNU C version 9.4.0, GMP version 6.2.0, MPFR version 4.0.2, MPC version 1.1.0, isl version isl-0.22.1-GMP
+
+GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072
+Compiler executable checksum: 3d1eba838554fa2348dba760e4770469
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_04a77.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ as -v --64 -o CMakeFiles/cmTC_04a77.dir/CMakeCXXCompilerABI.cpp.o /tmp/cc1KBs1O.s
+GNU assembler version 2.34 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.34
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_04a77.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+Linking CXX executable cmTC_04a77
+/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_04a77.dir/link.txt --verbose=1
+/usr/bin/c++  -v CMakeFiles/cmTC_04a77.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_04a77 
+Using built-in specs.
+COLLECT_GCC=/usr/bin/c++
+COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper
+OFFLOAD_TARGET_NAMES=nvptx-none:hsa
+OFFLOAD_TARGET_DEFAULT=1
+Target: x86_64-linux-gnu
+Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.4.0-1ubuntu1~20.04.2' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c,ada,c++,go,brig,d,fortran,objc,obj-c++,gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32,m64,mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-9QDOt0/gcc-9-9.4.0/debian/tmp-nvptx/usr,hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu
+Thread model: posix
+gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2) 
+COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/
+LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_04a77' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+ /usr/lib/gcc/x86_64-linux-gnu/9/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/9/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper -plugin-opt=-fresolution=/tmp/ccrz9oxh.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_04a77 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/9/../../.. CMakeFiles/cmTC_04a77.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o
+COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_04a77' '-shared-libgcc' '-mtune=generic' '-march=x86-64'
+make[1]: Leaving directory '/home/hlf/share/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeTmp'
+
+
+
+Parsed CXX implicit include dir info from above output: rv=done
+  found start of include info
+  found start of implicit include info
+    add: [/usr/include/c++/9]
+    add: [/usr/include/x86_64-linux-gnu/c++/9]
+    add: [/usr/include/c++/9/backward]
+    add: [/usr/lib/gcc/x86_64-linux-gnu/9/include]
+    add: [/usr/local/include]
+    add: [/usr/include/x86_64-linux-gnu]
+    add: [/usr/include]
+  end of search list found
+  collapse include dir [/usr/include/c++/9] ==> [/usr/include/c++/9]
+  collapse include dir [/usr/include/x86_64-linux-gnu/c++/9] ==> [/usr/include/x86_64-linux-gnu/c++/9]
+  collapse include dir [/usr/include/c++/9/backward] ==> [/usr/include/c++/9/backward]
+  collapse include dir [/usr/lib/gcc/x86_64-linux-gnu/9/include] ==> [/usr/lib/gcc/x86_64-linux-gnu/9/include]
+  collapse include dir [/usr/local/include] ==> [/usr/local/include]
+  collapse include dir [/usr/include/x86_64-linux-gnu] ==> [/usr/include/x86_64-linux-gnu]
+  collapse include dir [/usr/include] ==> [/usr/include]
+  implicit include dirs: [/usr/include/c++/9;/usr/include/x86_64-linux-gnu/c++/9;/usr/include/c++/9/backward;/usr/lib/gcc/x86_64-linux-gnu/9/include;/usr/local/include;/usr/include/x86_64-linux-gnu;/usr/include]
+
+
+Parsed CXX implicit link information from above output:
+  link line regex: [^( *|.*[/\])(ld|CMAKE_LINK_STARTFILE-NOTFOUND|([^/\]+-)?ld|collect2)[^/\]*( |$)]
+  ignore line: [Change Dir: /home/hlf/share/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeTmp]
+  ignore line: []
+  ignore line: [Run Build Command(s):/usr/bin/make -f Makefile cmTC_04a77/fast && /usr/bin/make  -f CMakeFiles/cmTC_04a77.dir/build.make CMakeFiles/cmTC_04a77.dir/build]
+  ignore line: [make[1]: Entering directory '/home/hlf/share/MEIOU/Application/OR/OR-2I-Outdoor/CMakeFiles/CMakeTmp']
+  ignore line: [Building CXX object CMakeFiles/cmTC_04a77.dir/CMakeCXXCompilerABI.cpp.o]
+  ignore line: [/usr/bin/c++   -v -o CMakeFiles/cmTC_04a77.dir/CMakeCXXCompilerABI.cpp.o -c /usr/local/share/cmake-3.23/Modules/CMakeCXXCompilerABI.cpp]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/c++]
+  ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none:hsa]
+  ignore line: [OFFLOAD_TARGET_DEFAULT=1]
+  ignore line: [Target: x86_64-linux-gnu]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.4.0-1ubuntu1~20.04.2' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c ada c++ go brig d fortran objc obj-c++ gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32 m64 mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-9QDOt0/gcc-9-9.4.0/debian/tmp-nvptx/usr hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2) ]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_04a77.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  ignore line: [ /usr/lib/gcc/x86_64-linux-gnu/9/cc1plus -quiet -v -imultiarch x86_64-linux-gnu -D_GNU_SOURCE /usr/local/share/cmake-3.23/Modules/CMakeCXXCompilerABI.cpp -quiet -dumpbase CMakeCXXCompilerABI.cpp -mtune=generic -march=x86-64 -auxbase-strip CMakeFiles/cmTC_04a77.dir/CMakeCXXCompilerABI.cpp.o -version -fasynchronous-unwind-tables -fstack-protector-strong -Wformat -Wformat-security -fstack-clash-protection -fcf-protection -o /tmp/cc1KBs1O.s]
+  ignore line: [GNU C++14 (Ubuntu 9.4.0-1ubuntu1~20.04.2) version 9.4.0 (x86_64-linux-gnu)]
+  ignore line: [	compiled by GNU C version 9.4.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.22.1-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [ignoring duplicate directory "/usr/include/x86_64-linux-gnu/c++/9"]
+  ignore line: [ignoring nonexistent directory "/usr/local/include/x86_64-linux-gnu"]
+  ignore line: [ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/include-fixed"]
+  ignore line: [ignoring nonexistent directory "/usr/lib/gcc/x86_64-linux-gnu/9/../../../../x86_64-linux-gnu/include"]
+  ignore line: [#include "..." search starts here:]
+  ignore line: [#include <...> search starts here:]
+  ignore line: [ /usr/include/c++/9]
+  ignore line: [ /usr/include/x86_64-linux-gnu/c++/9]
+  ignore line: [ /usr/include/c++/9/backward]
+  ignore line: [ /usr/lib/gcc/x86_64-linux-gnu/9/include]
+  ignore line: [ /usr/local/include]
+  ignore line: [ /usr/include/x86_64-linux-gnu]
+  ignore line: [ /usr/include]
+  ignore line: [End of search list.]
+  ignore line: [GNU C++14 (Ubuntu 9.4.0-1ubuntu1~20.04.2) version 9.4.0 (x86_64-linux-gnu)]
+  ignore line: [	compiled by GNU C version 9.4.0  GMP version 6.2.0  MPFR version 4.0.2  MPC version 1.1.0  isl version isl-0.22.1-GMP]
+  ignore line: []
+  ignore line: [GGC heuristics: --param ggc-min-expand=100 --param ggc-min-heapsize=131072]
+  ignore line: [Compiler executable checksum: 3d1eba838554fa2348dba760e4770469]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_04a77.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  ignore line: [ as -v --64 -o CMakeFiles/cmTC_04a77.dir/CMakeCXXCompilerABI.cpp.o /tmp/cc1KBs1O.s]
+  ignore line: [GNU assembler version 2.34 (x86_64-linux-gnu) using BFD version (GNU Binutils for Ubuntu) 2.34]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'CMakeFiles/cmTC_04a77.dir/CMakeCXXCompilerABI.cpp.o' '-c' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  ignore line: [Linking CXX executable cmTC_04a77]
+  ignore line: [/usr/local/bin/cmake -E cmake_link_script CMakeFiles/cmTC_04a77.dir/link.txt --verbose=1]
+  ignore line: [/usr/bin/c++  -v CMakeFiles/cmTC_04a77.dir/CMakeCXXCompilerABI.cpp.o -o cmTC_04a77 ]
+  ignore line: [Using built-in specs.]
+  ignore line: [COLLECT_GCC=/usr/bin/c++]
+  ignore line: [COLLECT_LTO_WRAPPER=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper]
+  ignore line: [OFFLOAD_TARGET_NAMES=nvptx-none:hsa]
+  ignore line: [OFFLOAD_TARGET_DEFAULT=1]
+  ignore line: [Target: x86_64-linux-gnu]
+  ignore line: [Configured with: ../src/configure -v --with-pkgversion='Ubuntu 9.4.0-1ubuntu1~20.04.2' --with-bugurl=file:///usr/share/doc/gcc-9/README.Bugs --enable-languages=c ada c++ go brig d fortran objc obj-c++ gm2 --prefix=/usr --with-gcc-major-version-only --program-suffix=-9 --program-prefix=x86_64-linux-gnu- --enable-shared --enable-linker-build-id --libexecdir=/usr/lib --without-included-gettext --enable-threads=posix --libdir=/usr/lib --enable-nls --enable-clocale=gnu --enable-libstdcxx-debug --enable-libstdcxx-time=yes --with-default-libstdcxx-abi=new --enable-gnu-unique-object --disable-vtable-verify --enable-plugin --enable-default-pie --with-system-zlib --with-target-system-zlib=auto --enable-objc-gc=auto --enable-multiarch --disable-werror --with-arch-32=i686 --with-abi=m64 --with-multilib-list=m32 m64 mx32 --enable-multilib --with-tune=generic --enable-offload-targets=nvptx-none=/build/gcc-9-9QDOt0/gcc-9-9.4.0/debian/tmp-nvptx/usr hsa --without-cuda-driver --enable-checking=release --build=x86_64-linux-gnu --host=x86_64-linux-gnu --target=x86_64-linux-gnu]
+  ignore line: [Thread model: posix]
+  ignore line: [gcc version 9.4.0 (Ubuntu 9.4.0-1ubuntu1~20.04.2) ]
+  ignore line: [COMPILER_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/]
+  ignore line: [LIBRARY_PATH=/usr/lib/gcc/x86_64-linux-gnu/9/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib/:/lib/x86_64-linux-gnu/:/lib/../lib/:/usr/lib/x86_64-linux-gnu/:/usr/lib/../lib/:/usr/lib/gcc/x86_64-linux-gnu/9/../../../:/lib/:/usr/lib/]
+  ignore line: [COLLECT_GCC_OPTIONS='-v' '-o' 'cmTC_04a77' '-shared-libgcc' '-mtune=generic' '-march=x86-64']
+  link line: [ /usr/lib/gcc/x86_64-linux-gnu/9/collect2 -plugin /usr/lib/gcc/x86_64-linux-gnu/9/liblto_plugin.so -plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper -plugin-opt=-fresolution=/tmp/ccrz9oxh.res -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc -plugin-opt=-pass-through=-lc -plugin-opt=-pass-through=-lgcc_s -plugin-opt=-pass-through=-lgcc --build-id --eh-frame-hdr -m elf_x86_64 --hash-style=gnu --as-needed -dynamic-linker /lib64/ld-linux-x86-64.so.2 -pie -z now -z relro -o cmTC_04a77 /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o /usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o -L/usr/lib/gcc/x86_64-linux-gnu/9 -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu -L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib -L/lib/x86_64-linux-gnu -L/lib/../lib -L/usr/lib/x86_64-linux-gnu -L/usr/lib/../lib -L/usr/lib/gcc/x86_64-linux-gnu/9/../../.. CMakeFiles/cmTC_04a77.dir/CMakeCXXCompilerABI.cpp.o -lstdc++ -lm -lgcc_s -lgcc -lc -lgcc_s -lgcc /usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o /usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/collect2] ==> ignore
+    arg [-plugin] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/liblto_plugin.so] ==> ignore
+    arg [-plugin-opt=/usr/lib/gcc/x86_64-linux-gnu/9/lto-wrapper] ==> ignore
+    arg [-plugin-opt=-fresolution=/tmp/ccrz9oxh.res] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lc] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc_s] ==> ignore
+    arg [-plugin-opt=-pass-through=-lgcc] ==> ignore
+    arg [--build-id] ==> ignore
+    arg [--eh-frame-hdr] ==> ignore
+    arg [-m] ==> ignore
+    arg [elf_x86_64] ==> ignore
+    arg [--hash-style=gnu] ==> ignore
+    arg [--as-needed] ==> ignore
+    arg [-dynamic-linker] ==> ignore
+    arg [/lib64/ld-linux-x86-64.so.2] ==> ignore
+    arg [-pie] ==> ignore
+    arg [-znow] ==> ignore
+    arg [-zrelro] ==> ignore
+    arg [-o] ==> ignore
+    arg [cmTC_04a77] ==> ignore
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib]
+    arg [-L/lib/x86_64-linux-gnu] ==> dir [/lib/x86_64-linux-gnu]
+    arg [-L/lib/../lib] ==> dir [/lib/../lib]
+    arg [-L/usr/lib/x86_64-linux-gnu] ==> dir [/usr/lib/x86_64-linux-gnu]
+    arg [-L/usr/lib/../lib] ==> dir [/usr/lib/../lib]
+    arg [-L/usr/lib/gcc/x86_64-linux-gnu/9/../../..] ==> dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../..]
+    arg [CMakeFiles/cmTC_04a77.dir/CMakeCXXCompilerABI.cpp.o] ==> ignore
+    arg [-lstdc++] ==> lib [stdc++]
+    arg [-lm] ==> lib [m]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [-lc] ==> lib [c]
+    arg [-lgcc_s] ==> lib [gcc_s]
+    arg [-lgcc] ==> lib [gcc]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o]
+    arg [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o] ==> obj [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o]
+  collapse obj [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/Scrt1.o] ==> [/usr/lib/x86_64-linux-gnu/Scrt1.o]
+  collapse obj [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crti.o] ==> [/usr/lib/x86_64-linux-gnu/crti.o]
+  collapse obj [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu/crtn.o] ==> [/usr/lib/x86_64-linux-gnu/crtn.o]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9] ==> [/usr/lib/gcc/x86_64-linux-gnu/9]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../../../lib] ==> [/usr/lib]
+  collapse library dir [/lib/x86_64-linux-gnu] ==> [/lib/x86_64-linux-gnu]
+  collapse library dir [/lib/../lib] ==> [/lib]
+  collapse library dir [/usr/lib/x86_64-linux-gnu] ==> [/usr/lib/x86_64-linux-gnu]
+  collapse library dir [/usr/lib/../lib] ==> [/usr/lib]
+  collapse library dir [/usr/lib/gcc/x86_64-linux-gnu/9/../../..] ==> [/usr/lib]
+  implicit libs: [stdc++;m;gcc_s;gcc;c;gcc_s;gcc]
+  implicit objs: [/usr/lib/x86_64-linux-gnu/Scrt1.o;/usr/lib/x86_64-linux-gnu/crti.o;/usr/lib/gcc/x86_64-linux-gnu/9/crtbeginS.o;/usr/lib/gcc/x86_64-linux-gnu/9/crtendS.o;/usr/lib/x86_64-linux-gnu/crtn.o]
+  implicit dirs: [/usr/lib/gcc/x86_64-linux-gnu/9;/usr/lib/x86_64-linux-gnu;/usr/lib;/lib/x86_64-linux-gnu;/lib]
+  implicit fwks: []
+
+

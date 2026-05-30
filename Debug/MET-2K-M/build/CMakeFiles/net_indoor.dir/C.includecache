@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/leo/workspace/MEIOU/Application/Debug/MET-2K-M/daemon/net_indoor.c
+netinet/in.h
+-
+sys/socket.h
+-
+sys/select.h
+-
+stdio.h
+-
+stdlib.h
+-
+string.h
+-
+unistd.h
+-
+dirent.h
+-
+sys/stat.h
+-
+stdbool.h
+-
+arpa/inet.h
+-
+pthread.h
+-
+sys/prctl.h
+-
+sys/prctl.h
+-
+

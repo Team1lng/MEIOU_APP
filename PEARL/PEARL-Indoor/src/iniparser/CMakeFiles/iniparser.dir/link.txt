@@ -1,0 +1,2 @@
+/home/hlf/share/MEIOU/Application/PEARL/PEARL-Indoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-ar qc libiniparser.a CMakeFiles/iniparser.dir/src/dictionary.c.o CMakeFiles/iniparser.dir/src/iniparser.c.o
+/home/hlf/share/MEIOU/Application/PEARL/PEARL-Indoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-ranlib libiniparser.a

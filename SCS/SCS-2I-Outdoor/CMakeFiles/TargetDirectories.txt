@@ -1,0 +1,10 @@
+/home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/CMakeFiles/ipc_camera.dir
+/home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/CMakeFiles/net_camera.dir
+/home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/CMakeFiles/net_indoor.dir
+/home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/CMakeFiles/edit_cache.dir
+/home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/CMakeFiles/rebuild_cache.dir
+/home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/share/CMakeFiles/edit_cache.dir
+/home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/share/CMakeFiles/rebuild_cache.dir
+/home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/share/speex/CMakeFiles/speex.dir
+/home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/share/speex/CMakeFiles/edit_cache.dir
+/home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/share/speex/CMakeFiles/rebuild_cache.dir

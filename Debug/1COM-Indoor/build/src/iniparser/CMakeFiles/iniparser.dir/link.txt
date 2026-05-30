@@ -1,0 +1,2 @@
+/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ar qc libiniparser.a CMakeFiles/iniparser.dir/src/dictionary.c.o CMakeFiles/iniparser.dir/src/iniparser.c.o
+/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-ranlib libiniparser.a

@@ -1,0 +1,1 @@
+/usr/bin/cc  -Os -Wall -std=gnu11 -s CMakeFiles/net_indoor.dir/daemon/net_indoor.c.o -o net_indoor 

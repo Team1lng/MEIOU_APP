@@ -1,0 +1,23 @@
+share/speex/CMakeFiles/speex.dir/filters.c.o: \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/share/speex/filters.c \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/share/speex/config.h \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/share/speex/filters.h \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/share/speex/arch.h \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/./share/include/speex/speex_types.h \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/./share/include/speex/speex_config_types.h \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/share/speex/fixed_generic.h \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/share/speex/stack_alloc.h \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/share/speex/math_approx.h \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/share/speex/ltp.h \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/./share/include/speex/speex_bits.h \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/math.h \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/features.h \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/uClibc_config.h \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/sys/cdefs.h \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/huge_val.h \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/huge_valf.h \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/huge_vall.h \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/inf.h \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/nan.h \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/mathdef.h \
+ /home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/mathcalls.h

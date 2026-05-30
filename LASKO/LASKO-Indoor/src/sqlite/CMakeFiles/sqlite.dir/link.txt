@@ -1,0 +1,1 @@
+/opt/arm-anykav500-linux-uclibcgnueabi/usr/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -O3 -Wall -std=gnu11 -s  -rdynamic CMakeFiles/sqlite.dir/sqlite3.c.o CMakeFiles/sqlite.dir/shell.c.o  -o sqlite -lm -ldl 

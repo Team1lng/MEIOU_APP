@@ -1,0 +1,2 @@
+/usr/bin/ar qc libxls.a  CMakeFiles/xls.dir/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c.o CMakeFiles/xls.dir/endian.c.o CMakeFiles/xls.dir/ole.c.o CMakeFiles/xls.dir/tuya_uuid_and_key.c.o CMakeFiles/xls.dir/xls.c.o CMakeFiles/xls.dir/xlstool.c.o
+/usr/bin/ranlib libxls.a

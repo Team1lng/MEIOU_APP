@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblv_iniparser_lib.a  CMakeFiles/lv_iniparser_lib.dir/src/dictionary.c.o CMakeFiles/lv_iniparser_lib.dir/src/iniparser.c.o
+/usr/bin/ranlib liblv_iniparser_lib.a

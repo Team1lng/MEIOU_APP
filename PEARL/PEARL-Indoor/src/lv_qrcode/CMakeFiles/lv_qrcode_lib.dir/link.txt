@@ -1,0 +1,2 @@
+/home/hlf/share/MEIOU/Application/PEARL/PEARL-Indoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-ar qc liblv_qrcode_lib.a CMakeFiles/lv_qrcode_lib.dir/lv_jpg_decode.c.o CMakeFiles/lv_qrcode_lib.dir/lv_qrcode.c.o CMakeFiles/lv_qrcode_lib.dir/qrcodegen.c.o
+/home/hlf/share/MEIOU/Application/PEARL/PEARL-Indoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-ranlib liblv_qrcode_lib.a

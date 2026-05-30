@@ -1,0 +1,902 @@
+{
+	"archive" : {},
+	"artifacts" : 
+	[
+		{
+			"path" : "src/api/libleo_api_lib.a"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_library",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"src/api/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 29,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 4,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 5,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 6,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 7,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 8,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 9,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 11,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 12,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 13,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 14,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 16,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 17,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 18,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 20,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 21,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 22,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 23,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 24,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 25,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 26,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 27,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "ADMIN_CARD_MANAGEMENT"
+				},
+				{
+					"define" : "ADMIN_FINGER_MANAGEMENT"
+				},
+				{
+					"define" : "APP_DEFAULT_PATH=\"/etc/config/\""
+				},
+				{
+					"define" : "AUDIO_CONFIG_DEFAULT"
+				},
+				{
+					"define" : "DHCP_IPCAMERA"
+				},
+				{
+					"define" : "FAMILY_TRANSFER_MODULE"
+				},
+				{
+					"define" : "HOME_MECHANICAL_KEY"
+				},
+				{
+					"define" : "IPC_APP_PID=\"njqrhy6hluxsfqsx\""
+				},
+				{
+					"define" : "JEATONE_VERSION"
+				},
+				{
+					"define" : "LV_LVGL_H_INCLUDE_SIMPLE"
+				},
+				{
+					"define" : "MAILBOX_MODULE_EN"
+				},
+				{
+					"define" : "MUSIC_FILE_PATH=\"/mnt/tf/music/\""
+				},
+				{
+					"define" : "PUBLIC_VERSION"
+				},
+				{
+					"define" : "RING_BACK_MODIFY"
+				},
+				{
+					"define" : "RING_FILE_PATH=\"/app/app/rings/\""
+				},
+				{
+					"define" : "ROM_BIN_PATH=\"/app/app/rom.bin\""
+				},
+				{
+					"define" : "ROM_BIN_TEMP_PATH=\"/tmp/rom.bin\""
+				},
+				{
+					"define" : "SARADC_DETECT"
+				},
+				{
+					"define" : "SDCARD_PARTITION"
+				},
+				{
+					"define" : "TTF_FILE_PATH=\"/app/app/sat_leo.ttf\""
+				},
+				{
+					"define" : "TTF_XLS_PATH=\"/app/app/language.xls\""
+				},
+				{
+					"define" : "TUYA_DATA_PATH=\"/app/data/\""
+				},
+				{
+					"define" : "USER_FILE_PATH=\"/app/data/\""
+				},
+				{
+					"define" : "WLAN_CHECK_PATH=\"/etc/config/wlan_check.sh\""
+				},
+				{
+					"define" : "WPA_SUPPLICANT_PATH=\"/etc/config/wpa_supplicant.conf\""
+				},
+				{
+					"define" : "_GNU_SOURCE"
+				},
+				{
+					"define" : "__LITTLE_ENDIAN__"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 2,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../include/anyka"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../include/api"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../include/freetype"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../include/libmad"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../include/tuya"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../lvgl"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../include/live555/BasicUsageEnvironment/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../include/live555/groupsock/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../include/live555/liveMedia/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../include/live555/UsageEnvironment/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../tuya_batch_production_sdk/include/libxls"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../tuya_batch_production_sdk/include/iconv"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../tuya_batch_production_sdk/xls"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/./queue"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/./video"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/./common"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/./audio"
+				},
+				{
+					"backtrace" : 19,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/./network"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/./png_lib"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/./freetype"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/./wlan"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43
+			]
+		},
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "ADMIN_CARD_MANAGEMENT"
+				},
+				{
+					"define" : "ADMIN_FINGER_MANAGEMENT"
+				},
+				{
+					"define" : "APP_DEFAULT_PATH=\"/etc/config/\""
+				},
+				{
+					"define" : "AUDIO_CONFIG_DEFAULT"
+				},
+				{
+					"define" : "DHCP_IPCAMERA"
+				},
+				{
+					"define" : "FAMILY_TRANSFER_MODULE"
+				},
+				{
+					"define" : "HOME_MECHANICAL_KEY"
+				},
+				{
+					"define" : "IPC_APP_PID=\"njqrhy6hluxsfqsx\""
+				},
+				{
+					"define" : "JEATONE_VERSION"
+				},
+				{
+					"define" : "LV_LVGL_H_INCLUDE_SIMPLE"
+				},
+				{
+					"define" : "MAILBOX_MODULE_EN"
+				},
+				{
+					"define" : "MUSIC_FILE_PATH=\"/mnt/tf/music/\""
+				},
+				{
+					"define" : "PUBLIC_VERSION"
+				},
+				{
+					"define" : "RING_BACK_MODIFY"
+				},
+				{
+					"define" : "RING_FILE_PATH=\"/app/app/rings/\""
+				},
+				{
+					"define" : "ROM_BIN_PATH=\"/app/app/rom.bin\""
+				},
+				{
+					"define" : "ROM_BIN_TEMP_PATH=\"/tmp/rom.bin\""
+				},
+				{
+					"define" : "SARADC_DETECT"
+				},
+				{
+					"define" : "SDCARD_PARTITION"
+				},
+				{
+					"define" : "TTF_FILE_PATH=\"/app/app/sat_leo.ttf\""
+				},
+				{
+					"define" : "TTF_XLS_PATH=\"/app/app/language.xls\""
+				},
+				{
+					"define" : "TUYA_DATA_PATH=\"/app/data/\""
+				},
+				{
+					"define" : "USER_FILE_PATH=\"/app/data/\""
+				},
+				{
+					"define" : "WLAN_CHECK_PATH=\"/etc/config/wlan_check.sh\""
+				},
+				{
+					"define" : "WPA_SUPPLICANT_PATH=\"/etc/config/wpa_supplicant.conf\""
+				},
+				{
+					"define" : "_GNU_SOURCE"
+				},
+				{
+					"define" : "__LITTLE_ENDIAN__"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 2,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../include/anyka"
+				},
+				{
+					"backtrace" : 3,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../include/api"
+				},
+				{
+					"backtrace" : 4,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../include/freetype"
+				},
+				{
+					"backtrace" : 5,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../include/libmad"
+				},
+				{
+					"backtrace" : 6,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../include/tuya"
+				},
+				{
+					"backtrace" : 7,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../lvgl"
+				},
+				{
+					"backtrace" : 8,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../include/live555/BasicUsageEnvironment/include"
+				},
+				{
+					"backtrace" : 9,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../include/live555/groupsock/include"
+				},
+				{
+					"backtrace" : 10,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../include/live555/liveMedia/include"
+				},
+				{
+					"backtrace" : 11,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../include/live555/UsageEnvironment/include"
+				},
+				{
+					"backtrace" : 12,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../tuya_batch_production_sdk/include/libxls"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../tuya_batch_production_sdk/include/iconv"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/../tuya_batch_production_sdk/xls"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/./queue"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/./video"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/./common"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/./audio"
+				},
+				{
+					"backtrace" : 19,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/./network"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/./png_lib"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/./freetype"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/api/./wlan"
+				}
+			],
+			"language" : "CXX",
+			"sourceIndexes" : 
+			[
+				1,
+				24
+			]
+		}
+	],
+	"id" : "leo_api_lib::@f0e24b7f04f99860965c",
+	"name" : "leo_api_lib",
+	"nameOnDisk" : "libleo_api_lib.a",
+	"paths" : 
+	{
+		"build" : "src/api",
+		"source" : "src/api"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/CMakeFiles/3.10.2/CompilerIdC/CMakeCCompilerId.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "src/api/CMakeFiles/3.10.2/CompilerIdCXX/CMakeCXXCompilerId.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/CMakeFiles/feature_tests.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/audio/audio_config_anyka.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/audio/audio_config_default.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/audio/audio_decode.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/audio/audio_input.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/audio/audio_output.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/audio/audio_play.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/audio/audio_vqe.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/common/leo_audio_play.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/common/leo_monitor.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/common/leo_record.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/common/os_standby.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/filelist/leo_filelist.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/filelist/sdcard_partition.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/freetype/lv_freetype.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/gpio/gpio_base.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/gpio/leo_gpio.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/gpio/leo_pwm.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/network/network_audio_package.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/network/network_common.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/network/network_outdoor_upgrade.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/network/network_video_package.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 1,
+			"path" : "src/api/network/testRTSPClient.cpp",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/png_lib/lodepng.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/png_lib/lv_png.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/queue/link_list.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/queue/queue.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/queue/ring_buffer.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/tcp_network/tcp_clinet.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/tcp_network/tcp_management.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/tcp_network/tcp_socket.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/video/avilib.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/video/jpeg_record.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/video/media_thumb.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/video/video_decode.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/video/video_play.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/video/video_raw_queue.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/video/video_record.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/wlan/tuya_api_func.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/wlan/tuya_sdk.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/wlan/tuya_stream_storage.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/api/wlan/wlan.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "STATIC_LIBRARY"
+}

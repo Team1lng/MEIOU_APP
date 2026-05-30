@@ -1,0 +1,1 @@
+/home/leo/workspace/MEIOU/Application/OR/OR-2NP-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -Os -Wall -std=gnu11 -s   CMakeFiles/net_indoor.dir/daemon/net_indoor.c.o  -o net_indoor 

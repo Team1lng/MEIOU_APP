@@ -1,0 +1,21 @@
+{
+    "files.associations": {
+        "ak_its.h": "c",
+        "audio_speak_amp.h": "c",
+        "ircut.h": "c",
+        "stdio.h": "c",
+        "gpio_base.h": "c",
+        "ak_ats.h": "c",
+        "network_common.h": "c",
+        "ak_vi.h": "c",
+        "ak_venc.h": "c",
+        "card_manage.h": "c",
+        "app_common.h": "c",
+        "queue.h": "c",
+        "audio_play.h": "c",
+        "scan_numeric_key.h": "c",
+        "array": "c",
+        "string": "c",
+        "string_view": "c"
+    }
+}

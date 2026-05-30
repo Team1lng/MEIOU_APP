@@ -1,0 +1,1 @@
+/home/share/two_wire_project/MEIOU/Application/SCS/SCS-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-gcc  -Os -Wall -std=gnu11 -s CMakeFiles/net_camera.dir/daemon/net_camera.c.o CMakeFiles/net_camera.dir/daemon/GpioControl.c.o CMakeFiles/net_camera.dir/daemon/upgrade_app.c.o -o upgrade/daemon/net_camera 

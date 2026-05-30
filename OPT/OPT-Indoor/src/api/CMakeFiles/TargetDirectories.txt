@@ -1,0 +1,3 @@
+/home/share/boke/JIJI/two-wire-indoor/src/api/CMakeFiles/rebuild_cache.dir
+/home/share/boke/JIJI/two-wire-indoor/src/api/CMakeFiles/leo_api_lib.dir
+/home/share/boke/JIJI/two-wire-indoor/src/api/CMakeFiles/edit_cache.dir

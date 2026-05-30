@@ -1,0 +1,245 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"childIndexes" : 
+					[
+						1
+					],
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"projectIndex" : 0,
+					"source" : "."
+				},
+				{
+					"build" : "src",
+					"childIndexes" : 
+					[
+						2,
+						3,
+						4,
+						5,
+						6,
+						8
+					],
+					"jsonFile" : "directory-src-Debug-b6cf2213fc5053b67c22.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 0,
+					"projectIndex" : 0,
+					"source" : "src",
+					"targetIndexes" : 
+					[
+						0
+					]
+				},
+				{
+					"build" : "src/lvgl",
+					"jsonFile" : "directory-src.lvgl-Debug-8d222babe3069ce2cced.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/lvgl",
+					"targetIndexes" : 
+					[
+						5
+					]
+				},
+				{
+					"build" : "src/lv_drivers",
+					"jsonFile" : "directory-src.lv_drivers-Debug-92bbe3dd423bc8cd6818.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/lv_drivers",
+					"targetIndexes" : 
+					[
+						3
+					]
+				},
+				{
+					"build" : "src/lv_qrcode",
+					"jsonFile" : "directory-src.lv_qrcode-Debug-3361a4dbb05c189b7acb.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/lv_qrcode",
+					"targetIndexes" : 
+					[
+						4
+					]
+				},
+				{
+					"build" : "src/api",
+					"jsonFile" : "directory-src.api-Debug-c4068b274e968da3f289.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/api",
+					"targetIndexes" : 
+					[
+						2
+					]
+				},
+				{
+					"build" : "src/tuya_batch_production_sdk",
+					"childIndexes" : 
+					[
+						7
+					],
+					"jsonFile" : "directory-src.tuya_batch_production_sdk-Debug-e9cf6751989acc4d376d.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/tuya_batch_production_sdk"
+				},
+				{
+					"build" : "src/tuya_batch_production_sdk/xls",
+					"jsonFile" : "directory-src.tuya_batch_production_sdk.xls-Debug-bac61246680fa7167434.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 6,
+					"projectIndex" : 0,
+					"source" : "src/tuya_batch_production_sdk/xls",
+					"targetIndexes" : 
+					[
+						6
+					]
+				},
+				{
+					"build" : "src/iniparser",
+					"jsonFile" : "directory-src.iniparser-Debug-8916aea2338738923c18.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "2.8"
+					},
+					"parentIndex" : 1,
+					"projectIndex" : 0,
+					"source" : "src/iniparser",
+					"targetIndexes" : 
+					[
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6,
+						7,
+						8
+					],
+					"name" : "../ANYKA37E.BIN",
+					"targetIndexes" : 
+					[
+						0,
+						1,
+						2,
+						3,
+						4,
+						5,
+						6
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 1,
+					"id" : "../ANYKA37E.BIN::@145eef247bfb46b6828c",
+					"jsonFile" : "target-.._ANYKA37E.BIN-Debug-2d0e5628b1c348fc45b9.json",
+					"name" : "../ANYKA37E.BIN",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 8,
+					"id" : "iniparser::@89b6e9fdd4f6535ed709",
+					"jsonFile" : "target-iniparser-Debug-68b71f6aafde8e951c32.json",
+					"name" : "iniparser",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 5,
+					"id" : "leo_api_lib::@f0e24b7f04f99860965c",
+					"jsonFile" : "target-leo_api_lib-Debug-d7676efb55fe396d0178.json",
+					"name" : "leo_api_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 3,
+					"id" : "lv_drivers_lib::@03cf5a5dc8371fc13818",
+					"jsonFile" : "target-lv_drivers_lib-Debug-f217a1e8e81b154eb404.json",
+					"name" : "lv_drivers_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 4,
+					"id" : "lv_qrcode_lib::@9a7a9ed36344acc88b7e",
+					"jsonFile" : "target-lv_qrcode_lib-Debug-68212b8375ee40963739.json",
+					"name" : "lv_qrcode_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 2,
+					"id" : "lvgl_lib::@3698631a24d6a952dc3f",
+					"jsonFile" : "target-lvgl_lib-Debug-6db8fdfcdf0ee998f624.json",
+					"name" : "lvgl_lib",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 7,
+					"id" : "xls::@5572d597917ae4a5b860",
+					"jsonFile" : "target-xls-Debug-e1e1b7a8993537fd9bf4.json",
+					"name" : "xls",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/build",
+		"source" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 6
+	}
+}

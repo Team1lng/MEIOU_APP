@@ -1,0 +1,30 @@
+share/speex/CMakeFiles/speex.dir/modes.c.o: \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/share/speex/modes.c \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/share/speex/config.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/share/speex/modes.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/./share/include/speex/speex.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/./share/include/speex/speex_bits.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/./share/include/speex/speex_types.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/./share/include/speex/speex_config_types.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/share/speex/arch.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/share/speex/fixed_generic.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/share/speex/ltp.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/share/speex/quant_lsp.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/share/speex/cb_search.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/share/speex/sb_celp.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/share/speex/nb_celp.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/./share/include/speex/speex_callbacks.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/./share/include/speex/speex.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/share/speex/vbr.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/share/speex/filters.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/math.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/features.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/uClibc_config.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/sys/cdefs.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/huge_val.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/huge_valf.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/huge_vall.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/inf.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/nan.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/mathdef.h \
+ /home/zio/Share/MEIOU/Application/OR/OR-2NP-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/mathcalls.h

@@ -1,0 +1,11 @@
+file(REMOVE_RECURSE
+  "CMakeFiles/lv_drivers_lib.dir/lv_port_disp.c.o"
+  "CMakeFiles/lv_drivers_lib.dir/lv_port_indev.c.o"
+  "liblv_drivers_lib.pdb"
+  "liblv_drivers_lib.a"
+)
+
+# Per-language clean rules from dependency scanning.
+foreach(lang C)
+  include(CMakeFiles/lv_drivers_lib.dir/cmake_clean_${lang}.cmake OPTIONAL)
+endforeach()

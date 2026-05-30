@@ -1,0 +1,7 @@
+connect() timeout!
+connect() OK!
+send() OK!
+recv: attr id:36
+recv: cmd type:1
+recv failed! code:10053
+closesocket() OK!

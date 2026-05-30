@@ -1,0 +1,1 @@
+/usr/bin/cc  -Os -Wall -std=gnu11 -s CMakeFiles/net_camera.dir/daemon/net_camera.c.o CMakeFiles/net_camera.dir/daemon/GpioControl.c.o CMakeFiles/net_camera.dir/daemon/upgrade_app.c.o -o upgrade/daemon/net_camera 

@@ -1,0 +1,2 @@
+/usr/bin/ar qc liblv_qrcode_lib.a  CMakeFiles/lv_qrcode_lib.dir/lv_jpg_decode.c.o CMakeFiles/lv_qrcode_lib.dir/lv_qrcode.c.o CMakeFiles/lv_qrcode_lib.dir/qrcodegen.c.o
+/usr/bin/ranlib liblv_qrcode_lib.a

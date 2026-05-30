@@ -1,0 +1,2 @@
+/home/hlf/share/MEIOU/Application/PEARL/PEARL-Indoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-ar qc liblv_drivers_lib.a CMakeFiles/lv_drivers_lib.dir/lv_port_disp.c.o CMakeFiles/lv_drivers_lib.dir/lv_port_indev.c.o
+/home/hlf/share/MEIOU/Application/PEARL/PEARL-Indoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/bin/arm-anykav500-linux-uclibcgnueabi-ranlib liblv_drivers_lib.a

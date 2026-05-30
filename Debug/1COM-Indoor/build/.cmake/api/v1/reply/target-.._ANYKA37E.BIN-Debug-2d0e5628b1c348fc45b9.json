@@ -1,0 +1,1119 @@
+{
+	"artifacts" : 
+	[
+		{
+			"path" : "src/../ANYKA37E.BIN"
+		}
+	],
+	"backtrace" : 1,
+	"backtraceGraph" : 
+	{
+		"commands" : 
+		[
+			"add_executable",
+			"target_link_libraries",
+			"include_directories"
+		],
+		"files" : 
+		[
+			"src/CMakeLists.txt"
+		],
+		"nodes" : 
+		[
+			{
+				"file" : 0
+			},
+			{
+				"command" : 0,
+				"file" : 0,
+				"line" : 120,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 123,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 142,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 166,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 167,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 168,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 169,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 170,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 173,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 176,
+				"parent" : 0
+			},
+			{
+				"command" : 1,
+				"file" : 0,
+				"line" : 183,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 80,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 81,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 82,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 83,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 84,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 85,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 86,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 88,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 89,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 90,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 91,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 95,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 96,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 97,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 98,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 100,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 101,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 102,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 103,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 104,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 105,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 106,
+				"parent" : 0
+			},
+			{
+				"command" : 2,
+				"file" : 0,
+				"line" : 107,
+				"parent" : 0
+			}
+		]
+	},
+	"compileGroups" : 
+	[
+		{
+			"compileCommandFragments" : 
+			[
+				{
+					"fragment" : "-g"
+				}
+			],
+			"defines" : 
+			[
+				{
+					"define" : "ADMIN_CARD_MANAGEMENT"
+				},
+				{
+					"define" : "ADMIN_FINGER_MANAGEMENT"
+				},
+				{
+					"define" : "APP_DEFAULT_PATH=\"/etc/config/\""
+				},
+				{
+					"define" : "AUDIO_CONFIG_DEFAULT"
+				},
+				{
+					"define" : "DHCP_IPCAMERA"
+				},
+				{
+					"define" : "FAMILY_TRANSFER_MODULE"
+				},
+				{
+					"define" : "HOME_MECHANICAL_KEY"
+				},
+				{
+					"define" : "IPC_APP_PID=\"njqrhy6hluxsfqsx\""
+				},
+				{
+					"define" : "JEATONE_VERSION"
+				},
+				{
+					"define" : "LV_LVGL_H_INCLUDE_SIMPLE"
+				},
+				{
+					"define" : "MAILBOX_MODULE_EN"
+				},
+				{
+					"define" : "MUSIC_FILE_PATH=\"/mnt/tf/music/\""
+				},
+				{
+					"define" : "PUBLIC_VERSION"
+				},
+				{
+					"define" : "RING_BACK_MODIFY"
+				},
+				{
+					"define" : "RING_FILE_PATH=\"/app/app/rings/\""
+				},
+				{
+					"define" : "ROM_BIN_PATH=\"/app/app/rom.bin\""
+				},
+				{
+					"define" : "ROM_BIN_TEMP_PATH=\"/tmp/rom.bin\""
+				},
+				{
+					"define" : "SARADC_DETECT"
+				},
+				{
+					"define" : "SDCARD_PARTITION"
+				},
+				{
+					"define" : "TTF_FILE_PATH=\"/app/app/sat_leo.ttf\""
+				},
+				{
+					"define" : "TTF_XLS_PATH=\"/app/app/language.xls\""
+				},
+				{
+					"define" : "TUYA_DATA_PATH=\"/app/data/\""
+				},
+				{
+					"define" : "USER_FILE_PATH=\"/app/data/\""
+				},
+				{
+					"define" : "WLAN_CHECK_PATH=\"/etc/config/wlan_check.sh\""
+				},
+				{
+					"define" : "WPA_SUPPLICANT_PATH=\"/etc/config/wpa_supplicant.conf\""
+				},
+				{
+					"define" : "_GNU_SOURCE"
+				},
+				{
+					"define" : "__LITTLE_ENDIAN__"
+				}
+			],
+			"includes" : 
+			[
+				{
+					"backtrace" : 12,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./include/anyka"
+				},
+				{
+					"backtrace" : 13,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./include/api"
+				},
+				{
+					"backtrace" : 14,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./include/api/video"
+				},
+				{
+					"backtrace" : 15,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./include/freetype"
+				},
+				{
+					"backtrace" : 16,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./include/libmad"
+				},
+				{
+					"backtrace" : 17,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./include/tuya"
+				},
+				{
+					"backtrace" : 18,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./include/g711"
+				},
+				{
+					"backtrace" : 19,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./include/live555/BasicUsageEnvironment/include"
+				},
+				{
+					"backtrace" : 20,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./include/live555/groupsock/include"
+				},
+				{
+					"backtrace" : 21,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./include/live555/liveMedia/include"
+				},
+				{
+					"backtrace" : 22,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./include/live555/UsageEnvironment/include"
+				},
+				{
+					"backtrace" : 23,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./lvgl"
+				},
+				{
+					"backtrace" : 24,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./lv_drivers"
+				},
+				{
+					"backtrace" : 25,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./lv_qrcode"
+				},
+				{
+					"backtrace" : 26,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./layout"
+				},
+				{
+					"backtrace" : 27,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./api/freetype"
+				},
+				{
+					"backtrace" : 28,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./api/network"
+				},
+				{
+					"backtrace" : 29,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./api/tcp_network"
+				},
+				{
+					"backtrace" : 30,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./iniparser/src"
+				},
+				{
+					"backtrace" : 31,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./tuya_batch_production_sdk/include/libxls"
+				},
+				{
+					"backtrace" : 32,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./tuya_batch_production_sdk/include/iconv"
+				},
+				{
+					"backtrace" : 33,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./tuya_batch_production_sdk/xls"
+				},
+				{
+					"backtrace" : 34,
+					"path" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/./onvif/include"
+				}
+			],
+			"language" : "C",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48
+			]
+		}
+	],
+	"dependencies" : 
+	[
+		{
+			"backtrace" : 2,
+			"id" : "lvgl_lib::@3698631a24d6a952dc3f"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "lv_drivers_lib::@03cf5a5dc8371fc13818"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "lv_qrcode_lib::@9a7a9ed36344acc88b7e"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "leo_api_lib::@f0e24b7f04f99860965c"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "xls::@5572d597917ae4a5b860"
+		},
+		{
+			"backtrace" : 2,
+			"id" : "iniparser::@89b6e9fdd4f6535ed709"
+		}
+	],
+	"id" : "../ANYKA37E.BIN::@145eef247bfb46b6828c",
+	"link" : 
+	{
+		"commandFragments" : 
+		[
+			{
+				"fragment" : "-g",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-rdynamic",
+				"role" : "flags"
+			},
+			{
+				"fragment" : "-L/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/lib/anyka",
+				"role" : "libraryPath"
+			},
+			{
+				"fragment" : "-Wl,-rpath,/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/lib/anyka",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "lv_qrcode/liblv_qrcode_lib.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "lvgl/liblvgl_lib.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "lv_drivers/liblv_drivers_lib.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "api/libleo_api_lib.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "iniparser/libiniparser.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 2,
+				"fragment" : "tuya_batch_production_sdk/xls/libxls.a",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lplat_tde",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lplat_common",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lplat_thread",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lplat_mem",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lplat_osal",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lplat_log",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lplat_dbg",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lmpi_vdec",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lakv_decode",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lmpi_venc",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lakv_encode",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lplat_ao",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lplat_vqe",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lakaudiofilter",
+				"role" : "libraries"
+			},
+			{
+				"fragment" : "-lplat_ai",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-Wl,--start-group",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-lm",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-lpthread",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-ldl",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/onvif/lib/libbase64.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/onvif/lib/libmxml.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/onvif/lib/libonvif.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/onvif/lib/libsha1.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-Wl,--end-group",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 4,
+				"fragment" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/lib/anyka/../freetype/libfreetype.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 5,
+				"fragment" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/lib/anyka/../mad/libmad.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 6,
+				"fragment" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/lib/anyka/../jpg/libjpeg.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 7,
+				"fragment" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/lib/anyka/../g711/libg711.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 8,
+				"fragment" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/lib/anyka/../resample/libsamplerate.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 9,
+				"fragment" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/iniparser/libiniparser.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-Wl,--start-group",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/lib/live555/libBasicUsageEnvironment.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/lib/live555/libgroupsock.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/lib/live555/libliveMedia.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 10,
+				"fragment" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/lib/live555/libUsageEnvironment.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-Wl,--end-group",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-Wl,--start-group",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/lib/anyka/../tuya/libtuya_ipc.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/lib/anyka/../tuya/libmbedtls.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/lib/anyka/../../api/libleo_api_lib.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/lib/anyka/../iconv/libiconv.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 11,
+				"fragment" : "/home/share/two_wire_project/Bcom/Application/two-wire-indoor/src/tuya_batch_production_sdk/xls/libxls.a",
+				"role" : "libraries"
+			},
+			{
+				"backtrace" : 3,
+				"fragment" : "-Wl,--end-group",
+				"role" : "libraries"
+			}
+		],
+		"language" : "CXX"
+	},
+	"name" : "../ANYKA37E.BIN",
+	"nameOnDisk" : "../ANYKA37E.BIN",
+	"paths" : 
+	{
+		"build" : "src",
+		"source" : "src"
+	},
+	"sourceGroups" : 
+	[
+		{
+			"name" : "Source Files",
+			"sourceIndexes" : 
+			[
+				0,
+				1,
+				2,
+				3,
+				4,
+				5,
+				6,
+				7,
+				8,
+				9,
+				10,
+				11,
+				12,
+				13,
+				14,
+				15,
+				16,
+				17,
+				18,
+				19,
+				20,
+				21,
+				22,
+				23,
+				24,
+				25,
+				26,
+				27,
+				28,
+				29,
+				30,
+				31,
+				32,
+				33,
+				34,
+				35,
+				36,
+				37,
+				38,
+				39,
+				40,
+				41,
+				42,
+				43,
+				44,
+				45,
+				46,
+				47,
+				48
+			]
+		}
+	],
+	"sources" : 
+	[
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/main.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/lang_xls.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_1_music_list.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_1_photo_list.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_1_video_list.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_add_data.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_add_wifi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_call.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_cctv.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_connect_wifi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_data_list.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_define.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_device_busy.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_device_transfer.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_event.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_family_transfer.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_file_list.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_home.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_interphone.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_keyboard.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_media.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_media_music.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_media_photo.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_monitor.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_monitor2.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_monitor_1.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_password_input.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_photo.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_playback.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_record_list.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_setting.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_setting_admin.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_setting_camera.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_setting_door.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_setting_info.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_setting_ipc.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_setting_ring.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_setting_scene.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_setting_senior.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_setting_sys.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_setting_wifi.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_standby.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_transfer.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_tuya_register.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/layout_video.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/numeric_keypad.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/tuya_uuid_upgrade.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/upgrade_firmware.c",
+			"sourceGroupIndex" : 0
+		},
+		{
+			"backtrace" : 1,
+			"compileGroupIndex" : 0,
+			"path" : "src/layout/user_data.c",
+			"sourceGroupIndex" : 0
+		}
+	],
+	"type" : "EXECUTABLE"
+}

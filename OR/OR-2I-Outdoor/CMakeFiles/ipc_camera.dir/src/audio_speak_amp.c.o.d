@@ -1,0 +1,25 @@
+CMakeFiles/ipc_camera.dir/src/audio_speak_amp.c.o: \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/src/audio_speak_amp.c \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/src/audio_speak_amp.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include/stdbool.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/./common/gpio_base.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/stdio.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/features.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/uClibc_config.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/sys/cdefs.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include/stddef.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/types.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/wordsize.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/typesizes.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/uClibc_stdio.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/wchar.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/wchar.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/pthreadtypes.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/endian.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/endian.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/byteswap.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/byteswap.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/byteswap-common.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/byteswap-16.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/lib/gcc/arm-anykav500-linux-uclibcgnueabi/4.9.4/include/stdarg.h \
+ /home/share/two_wire_project/MEIOU/Application/OR/OR-2I-Outdoor/compilat_tool/arm-anykav500-linux-uclibcgnueabi/arm-anykav500-linux-uclibcgnueabi/sysroot/usr/include/bits/stdio_lim.h
