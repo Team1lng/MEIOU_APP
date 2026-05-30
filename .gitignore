@@ -1,2 +1,8 @@
 *.tar
 *.tar.gz
+*.tar
+*.tar.gz
+*.txt
+Debug/
+LASKO/
+OR/
